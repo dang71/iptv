@@ -1,350 +1,785 @@
 #EXTM3U
-#EXTINF:0,205: VTV1 HD  
-udp://@225.1.2.249:30120
-#EXTINF:0,206: VTV2     
-udp://@225.1.2.22:30120
-#EXTINF:-1, VTV3 HD    
-udp://@225.1.2.247:30120
-#EXTINF:-1, VTV6 HD    
-udp://@225.1.2.245:30120
-#EXTINF:0,018:  HBO HD
-udp://@225.1.2.233:30120
-#EXTINF:0,019:  STAR MOVIES HD
-udp://@225.1.2.239:30120
-#EXTINF:0,020:  AXN HD
-udp://@225.1.2.225:30120
-#EXTINF:0,K+1
-udp://@225.1.2.205:30120
-#EXTINF:0,K+1 HD
-udp://@225.1.2.210:30120
-#EXTINF:0,0333 : K+ PC SD
-udp://@225.1.1.139:30120
-#EXTINF:0,004: K+NS SD
-udp://@225.1.1.142:30120
-#EXTINF:-1, VTVCAB3 THE THAO TV HD 
-udp://@225.1.2.241:30120
-#EXTINF:-1, VTVCAB16 BONG DA TV HD
-udp://@225.1.2.242:30120
-#EXTINF:-1,SCTVHD HAI
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/playlist.m3u8
-#EXTINF:0,021:  CARTOON NETWORK HD
-udp://@225.1.2.231:30120
-#EXTINF:0,022:  CINEMAX
-udp://@225.1.1.230:30120
-#EXTINF:0,023:  STAR WORLD HD
-udp://@225.1.2.237:30120
-#EXTINF:0,024:  DISCOVERY HD
-udp://@225.1.2.223:30120
-#EXTINF:0,025:  FOX SPORTS HD
-udp://@225.1.2.229:30120
-#EXTINF:0,001:  HTV9 HD
-udp://@225.1.1.190:30120
-#EXTINF:0,002:  HTV7 HD
-udp://@225.1.1.192:30120
-#EXTINF:0,003:  HTV2 HD
-udp://@225.1.1.193:30120
-#EXTINF:0,007:  VTC1 HD 
-udp://@225.1.2.254:30120
-#EXTINF:0,008:  VTC3 HD
-udp://@225.1.2.252:30120
-#EXTINF:0,009:  VTC HD2
-udp://@225.1.2.253:30120
-#EXTINF:0,010:  VTC HD3
-udp://@225.1.2.251:30120
-#EXTINF:0,012:  QPVN HD
-udp://@225.1.2.217:30120
-#EXTINF:0,013:  HVT Phim truyen HD
-udp://@225.1.1.184:30120
-#EXTINF:0,014:  Thuan Viet HD
-udp://@225.1.1.186:30120
-#EXTINF:0,017:  FBNC HD
-udp://@225.1.1.182:30120
-#EXTINF:0,026:  NGC HD
-udp://@225.1.2.235:30120
-#EXTINF:0,027:  OUTDOOR HD
-udp://@225.1.2.215:30120
-#EXTINF:0,030:  FTV HD
-udp://@225.1.2.227:30120
-#EXTINF:0,033:  AVG PHIM HAY HD
-udp://@225.1.1.222:30120
-#EXTINF:0,034:  AVG VIET TEEN HD
-udp://@225.1.1.223:30120
-#EXTINF:0,035:  AN NINH THE GIOI HD
-udp://@225.1.1.211:30120
-#EXTINF:0,036:  BGTV BAC GIANG
-udp://@225.1.1.164:30120
-#EXTINF:0,039:  TTX - Thong tan xa Viet Nam
-udp://@225.1.1.167:30120
-#EXTINF:0,040:  VTVCAB1 GIAI TRI TV
-udp://@225.1.2.150:30120
-#EXTINF:0,041:  VTVCAB10 O2 TV
-udp://@225.1.2.152:30120
-#EXTINF:0,042:  VTVCAB11 TV SHOPPING
-udp://@225.1.1.252:30120
-#EXTINF:0,043:  VTVCAB12 STYLE TV
-udp://@225.1.2.155:30120
-#EXTINF:0,044:  VTVCAB14 LOTTE SHOPPING
-udp://@225.1.1.253:30120
-#EXTINF:0,045:  VTVCAB15 INVEST TV
-udp://@225.1.1.251:30120
-#EXTINF:0,047:  VTVCAB17 YEAH1 TV
-udp://@225.1.2.151:30120
-#EXTINF:0,048:  VTVCAB2 PHIM VIET
-udp://@225.1.2.159:30120
-#EXTINF:0,050:  VTVCAB4 KENH 17
-udp://@225.1.2.153:30120
-#EXTINF:0,051:  VTVCAB5 E CHANNEL
-udp://@225.1.2.156:30120
-#EXTINF:0,052:  VTVCAB6 HAY TV
-udp://@225.1.2.16:30120
-#EXTINF:0,053:  VTVCAB7 D DRAMAS
-udp://@225.1.2.157:30120
-#EXTINF:0,054:  VTVCAB8 BIBI
-udp://@225.1.2.161:30120
-#EXTINF:0,055:  AVG SAM HD
-udp://@225.1.1.224:30120
-#EXTINF:0,057:  VTVCAB9 INFO TV
-udp://@225.1.2.154:30120
-#EXTINF:0,058:  HCATV VGSSHOP
-udp://@225.1.1.210:30120
-#EXTINF:0,059:  HCATV2 YOUTV
-udp://@225.1.1.207:30120
-#EXTINF:0,061:  HTVC Shop
-udp://@225.1.1.172:30120
-#EXTINF:0,063:  HTVC Thuan Viet
-udp://@225.1.1.84:30120
-#EXTINF:0,064:  HTVC Movie Kenh phim truyen
-udp://@225.1.1.184:30120
-#EXTINF:0,065:  HTVC Gia dinh Kenh danh cho gia dinh
-udp://@225.1.1.170:30120
-#EXTINF:0,066:  Phu nu TV
-udp://@225.1.1.171:30120
-#EXTINF:0,068:  Du lich & Cuoc song
-udp://@225.1.1.166:30120
-#EXTINF:0,069:  HTV1
-udp://@225.1.1.180:30120
-#EXTINF:0,070:  HTV3
-udp://@225.1.1.178:30120
-#EXTINF:0,071:  HTV4
-udp://@225.1.1.177:30120
-#EXTINF:0,074:  VTV3
-udp://@225.1.2.246:30120
-#EXTINF:0,075:  VTV4
-udp://@225.1.1.248:30120
-#EXTINF:0,076:  VTV5
-udp://@225.1.1.247:30120
-#EXTINF:0,077:  VTV6
-udp://@225.1.2.244:30120
-#EXTINF:0,078:  VTV9 
-udp://@225.1.1.153:30120
-#EXTINF:0,079:  VTC1
-udp://@225.1.2.254:30120
-#EXTINF:0,080:  VTC2
-udp://@225.1.2.202:30120
-#EXTINF:0,081:  VTC3
-udp://@225.1.2.251:30120
-#EXTINF:0,082:  VTC4 YEAH1 FAMILY
-udp://@225.1.2.200:30120
-#EXTINF:0,083:  VTC5
-udp://@225.1.2.199:30120
-#EXTINF:0,084:  VTC6
-udp://@225.1.2.198:30120
-#EXTINF:0,085:  VTC7
-udp://@225.1.1.126:30120
-#EXTINF:0,086:  VTC8
-udp://@225.1.2.196:30120
-#EXTINF:0,087:  VTC10
-udp://@225.1.2.194:30120
-#EXTINF:0,088:  VTC 11 KIDSTV & FAMILY
-udp://@225.1.2.193:30120
-#EXTINF:0,089:  VTC12
-udp://@225.1.2.192:30120
-#EXTINF:0,090:  VTC13 ITV
-udp://@225.1.2.250:30120
-#EXTINF:0,091:  VTC14
-udp://@225.1.2.191:30120
-#EXTINF:0,092:  VTC16
-udp://@225.1.2.190:30120
-#EXTINF:0,093:  Ha Noi 1
-udp://@225.1.2.186:30120
-#EXTINF:0,094:  Ha Noi 2
-udp://@225.1.1.125:30120
-#EXTINF:0,095:  Khanh Hoa
-udp://@225.1.1.133:30120
-#EXTINF:0,096:  BTV
-udp://@225.1.1.50:30120
-#EXTINF:0,097:  MTV Vietnam
-udp://@225.1.1.50:30120
-#EXTINF:0,098:  Da Nang 1
-udp://@225.1.1.147:30120
-#EXTINF:0,099:  Da Nang 2
-udp://@225.1.1.146:30120
-#EXTINF:0,101:  TH Da Nang
-udp://@225.1.2.166:30120
-#EXTINF:0,102:  TH Can Tho
-udp://@225.1.1.54:30120
-#EXTINF:0,104:  BRTV
-udp://@225.1.2.175:30120
-#EXTINF:0,105:  VCTV 9 - Info TV
-udp://@225.1.2.154:30120
-#EXTINF:0,109:  VTV Can Tho 
-udp://@225.1.1.108:30120
-#EXTINF:0,110:  DN1 Dong Nai
-udp://@225.1.1.41:30120
-#EXTINF:0,111:  DN2 Dong Nai
-udp://@225.1.1.42:30120
-#EXTINF:0,112:  BRT
-udp://@225.1.1.122:30120
-#EXTINF:0,113:  THTG
-udp://@225.1.1.189:30120
-#EXTINF:0,114:   VTC9 LET'S VIET
-udp://@225.1.2.195:30120
-#EXTINF:0,116:  AN NINH THE GIOI HD
-udp://@225.1.2.79:30120
-#EXTINF:0,117:  ANIMAL PLANET
-udp://@225.1.1.231:30120
-#EXTINF:0,118:  ATV1 AN GIANG
-udp://@225.1.2.173:30120
-#EXTINF:0,120:  AVG MIEN TAY
-udp://@225.1.2.100:30120
-#EXTINF:0,121:  AVG THIEN DUONG CUA BE
-udp://@225.1.1.214:30120
-#EXTINF:0,122:  BPTV2 BINH PHUOC
-udp://@225.1.2.234:30120
-#EXTINF:0,123:  BRT
-udp://@225.1.2.175:30120
-#EXTINF:0,124:  BTV BINH DINH
-udp://@225.1.1.122:30120
-#EXTINF:0,125:  BTV1 BINH DUONG
-udp://@225.1.1.113:30120
-#EXTINF:0,126:  BTV2 BINH DUONG
-udp://@225.1.1.114:30120
-#EXTINF:0,127:  BTV4 BINH DUONG
-udp://@225.1.1.115:30120
-#EXTINF:0,128:  STV1 SOC TRANG
-udp://@225.1.1.23:30120
-#EXTINF:0,129:  TEST HD HO CHI MINH
-udp://@225.1.1.191:30120
-#EXTINF:0,130:  THBT BINH THUAN
-udp://@225.1.1.27:30120
-#EXTINF:0,131:  THD1 HAI DUONG
-udp://@225.1.1.158:30120
-#EXTINF:0,132:  THDT1 DONG THAP
-udp://@225.1.1.163:30120
-#EXTINF:0,133:  THGL GIA LAI
-udp://@225.1.2.176:30120
-#EXTINF:0,134:  THP HAI PHONG
-udp://@225.1.2.187:30120
-#EXTINF:0,135:  THTG TIEN GIANG
-udp://@225.1.2.170:30120
-#EXTINF:0,137:  THTPCT CAN THO
-udp://@225.1.1.54:30120
-#EXTINF:0,138:  THTV TRA VINH
-udp://@225.1.2.172:30120
-#EXTINF:0,139:  THVL1 VINH LONG
-udp://@225.1.1.91:30120
-#EXTINF:0,140:  THVL2 VINH LONG
-udp://@225.1.1.92:30120
-#EXTINF:0,141:  TLC
-udp://@225.1.1.236:30120
-#EXTINF:0,142:  TN1 THAI NGUYEN
-udp://@225.1.2.179:30120
-#EXTINF:0,143:  TRT HUE
-udp://@225.1.1.161:30120
-#EXTINF:0,144:  TTV
-udp://@225.1.2.188:30120
-#EXTINF:0,145:  TTV THANH HOA
-udp://@225.1.1.161:30120
-#EXTINF:0,146:  TTV11 TRA VINH
-udp://@225.1.1.53:30120
-#EXTINF:0,148:  HBTV HOA BINH
-udp://@225.1.2.168:30120
-#EXTINF:0,150:  KGPTTH KIEN GIANG
-udp://@225.1.2.182:30120
-#EXTINF:0,151:  KTV KHANH HOA
-udp://@225.1.1.67:30120
-#EXTINF:0,152:  LA34 LONG AN
-udp://@225.1.1.162:30120
-#EXTINF:0,153:  LSTV LANG SON
-udp://@225.1.1.160:30120
-#EXTINF:0,154:  LTV LAM DONG
-udp://@225.1.2.177:30120
-#EXTINF:0,156:  MTV
-udp://@225.1.1.245:30120
-#EXTINF:0,157:  NBTV NINH BINH
-udp://@225.1.2.185:30120
-#EXTINF:0,159:  NTV
-udp://@225.1.2.178:30120
-#EXTINF:0,160:  NTV NGHE AN
-udp://@225.1.2.183:30120
-#EXTINF:0,161:  PTQ1
-udp://@225.1.2.174:30120
-#EXTINF:0,162:  QBTV QUANG BINH
-udp://@225.1.2.164:30120
-#EXTINF:0,164:  QTV1 QUANG NINH
-udp://@225.1.2.181:30120
-#EXTINF:0,165:  QTV3 QUANG NINH
-udp://@225.1.2.180:30120
-#EXTINF:0,166:  VIETNAMNET
-udp://@225.1.2.96:30120
-#EXTINF:0,167:  VOV
-udp://@225.1.2.171:30120
-#EXTINF:0,168:  VTV CAN THO
-udp://@225.1.1.108:30120
-#EXTINF:0,169:  VTV DA NANG
-udp://@225.1.2.166:30120
-#EXTINF:0,170:  ARIRANG
-udp://@225.1.2.41:30120
-#EXTINF:0,171:  NHK WORLD
-udp://@225.1.1.196:30120
-#EXTINF:0,172:  STAR MOVIES
-udp://@225.1.2.43:30120
-#EXTINF:0,173:  STAR WORLD
-udp://@225.1.2.44:30120
-#EXTINF:0,174:  TV5 MONDE
-udp://@225.1.2.46:30120
-#EXTINF:0,175:  AXN SD
-udp://@225.1.2.224:30120
-#EXTINF:0,178:  BLOOMBERG
-udp://@225.1.1.227:30120
-#EXTINF:0,179:  CARTOON NETWORK
-udp://@225.1.2.231:30120
-#EXTINF:0,184:  DAVINCI LEARNING
-udp://@225.1.1.197:30120
-#EXTINF:0,185:  DISCOVERY
-udp://@225.1.1.238:30120
-#EXTINF:0,186:  DISNEY
-udp://@225.1.1.232:30120
-#EXTINF:0,187:  DISNEY JUNIOR
-udp://@225.1.1.233:30120
-#EXTINF:0,189:  DIVA
-udp://@225.1.1.199:30120
-#EXTINF:0,190:  FOX SPORTS
-udp://@225.1.2.228:30120
-#EXTINF:0,191:  FOX SPORTS 2
-udp://@225.1.1.241:30120
-#EXTINF:0,192:  CNN
-udp://@225.1.1.242:30120
-#EXTINF:0,193:  DW (Sub Viet)
-udp://@225.1.1.203:30120
-#EXTINF:0,194:  Fashion TV Kenh thoi trang quoc te
-udp://@225.1.2.227:30120
-#EXTINF:0,196:  AVG nhac dan toc
-udp://@225.1.1.219:30120
-#EXTINF:0,197:  AVG NHAC CO DIEN
-udp://@225.1.1.216:30120
-#EXTINF:0,198:  AVG NHAC NAM BO
-udp://@225.1.1.212:30120
-#EXTINF:0,199:  AVG NHAC NHE
-udp://@225.1.1.218:30120
-#EXTINF:0,200:  AVG NHAC TRE
-udp://@225.1.1.218:30120
-#EXTINF:0,201:  AVG NHAC TRU TINH
-udp://@225.1.1.217:30120
-#EXTINF:0,202:  AVG DOC SACH
-udp://@225.1.1.213:30120
-#EXTINF:0,Asian food channel
-udp://@225.1.1.198:30120
-#EXTINF:0, Australia Plus
-udp://@225.1.2.21:30120
+
+#EXTINF:-1 group-title="Bein AR Sports",BeIN:beIN(HQ)01
+http://abczu.xyz:25461/live/oscar2/oscar2/9589.ts
+#EXTINF:-1,BeIN:beIN(HQ)02
+http://abczu.xyz:25461/live/oscar2/oscar2/9586.ts
+#EXTINF:-1,BeIN:beIN(HQ)03
+http://abczu.xyz:25461/live/oscar2/oscar2/9583.ts
+#EXTINF:-1,BeIN:beIN(HQ)04
+http://abczu.xyz:25461/live/oscar2/oscar2/9580.ts
+#EXTINF:-1,BeIN:beIN(HQ)05
+http://abczu.xyz:25461/live/oscar2/oscar2/9577.ts
+#EXTINF:-1,BeIN:beIN(HQ)06
+http://abczu.xyz:25461/live/oscar2/oscar2/9574.ts
+#EXTINF:-1,BeIN:beIN(HQ)07
+http://abczu.xyz:25461/live/oscar2/oscar2/9571.ts
+#EXTINF:-1,BeIN:beIN(HQ)08
+http://abczu.xyz:25461/live/oscar2/oscar2/9568.ts
+#EXTINF:-1,BeIN:beIN(HQ)09
+http://abczu.xyz:25461/live/oscar2/oscar2/9565.ts
+#EXTINF:-1,BeIN:beIN(HQ)10
+http://abczu.xyz:25461/live/oscar2/oscar2/9562.ts
+#EXTINF:-1,BeinHD:Bein(01)
+http://abczu.xyz:25461/live/oscar2/oscar2/9587.ts
+#EXTINF:-1,BeinHD:Bein(02)
+http://abczu.xyz:25461/live/oscar2/oscar2/9584.ts
+#EXTINF:-1,BeinHD:Bein(03)
+http://abczu.xyz:25461/live/oscar2/oscar2/9581.ts
+#EXTINF:-1,BeinHD:Bein(04)
+http://abczu.xyz:25461/live/oscar2/oscar2/9578.ts
+#EXTINF:-1,BeinHD:Bein(05)
+http://abczu.xyz:25461/live/oscar2/oscar2/9575.ts
+#EXTINF:-1,BeinHD:Bein(06)
+http://abczu.xyz:25461/live/oscar2/oscar2/9572.ts
+#EXTINF:-1,BeinHD:Bein(07)
+http://abczu.xyz:25461/live/oscar2/oscar2/9569.ts
+#EXTINF:-1,BeinHD:Bein(08)
+http://abczu.xyz:25461/live/oscar2/oscar2/9566.ts
+#EXTINF:-1,BeinHD:Bein(09)
+http://abczu.xyz:25461/live/oscar2/oscar2/9563.ts
+#EXTINF:-1,BeinHD:Bein(10)
+http://abczu.xyz:25461/live/oscar2/oscar2/9560.ts
+#EXTINF:-1,BeinHD:Bein(11)
+http://abczu.xyz:25461/live/oscar2/oscar2/9559.ts
+#EXTINF:-1,BeinHD:Bein(12)
+http://abczu.xyz:25461/live/oscar2/oscar2/9558.ts
+#EXTINF:-1,BeinHD:Bein(13)
+http://abczu.xyz:25461/live/oscar2/oscar2/9557.ts
+#EXTINF:-1,BeinHD:Bein(14)
+http://abczu.xyz:25461/live/oscar2/oscar2/9556.ts
+#EXTINF:-1,BeinHD:Bein(15)
+http://abczu.xyz:25461/live/oscar2/oscar2/9555.ts
+#EXTINF:-1,BeinHD:Bein(16)
+http://abczu.xyz:25461/live/oscar2/oscar2/9554.ts
+#EXTINF:-1,BeinHD:BeinNews
+http://abczu.xyz:25461/live/oscar2/oscar2/9552.ts
+#EXTINF:-1,BeinHD: BeinSport (b)
+http://abczu.xyz:25461/live/oscar2/oscar2/9553.ts
+#EXTINF:-1,AR | beIN Sports News FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/13550.ts
+#EXTINF:-1,beIN Sports 1HD 1080p
+http://abczu.xyz:25461/live/oscar2/oscar2/14113.ts
+#EXTINF:-1,AR | beIN Sports 1 FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/13548.ts
+#EXTINF:-1,beIN Sports 2HD 1080p
+http://abczu.xyz:25461/live/oscar2/oscar2/14114.ts
+#EXTINF:-1,AR | beIN Sports 2 FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/13546.ts
+#EXTINF:-1,beIN Sports 3HD 1080p
+http://abczu.xyz:25461/live/oscar2/oscar2/14115.ts
+#EXTINF:-1,AR | beIN Sports 3 FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/13544.ts
+#EXTINF:-1,beIN Sports 4HD 1080p
+http://abczu.xyz:25461/live/oscar2/oscar2/14116.ts
+#EXTINF:-1,AR | beIN Sports 4 FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/13542.ts
+#EXTINF:-1,beIN Sports 5HD 1080p
+http://abczu.xyz:25461/live/oscar2/oscar2/14125.ts
+#EXTINF:-1,AR | beIN Sports 5 FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/13540.ts
+#EXTINF:-1,beIN Sports 6HD 1080p
+http://abczu.xyz:25461/live/oscar2/oscar2/14126.ts
+#EXTINF:-1,AR | beIN Sports 6 FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/13538.ts
+#EXTINF:-1,beIN Sports 7HD 1080p
+http://abczu.xyz:25461/live/oscar2/oscar2/14127.ts
+#EXTINF:-1,AR | beIN Sports 7 FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/13536.ts
+#EXTINF:-1,beIN Sports 8HD 1080p
+http://abczu.xyz:25461/live/oscar2/oscar2/14128.ts
+#EXTINF:-1,AR | beIN Sports 8 FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/13534.ts
+#EXTINF:-1,AR | beIN Sports 9 FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/13532.ts
+#EXTINF:-1,AR | beIN Sports 10 FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/13530.ts
+#EXTINF:-1,AR | beIN Sports 11 HD (ENG)
+http://abczu.xyz:25461/live/oscar2/oscar2/13529.ts
+#EXTINF:-1,AR | beIN Sports 11 HD B (ENG)
+http://abczu.xyz:25461/live/oscar2/oscar2/13528.ts
+#EXTINF:-1,AR | beIN Sports 12 HD (ENG)
+http://abczu.xyz:25461/live/oscar2/oscar2/13526.ts
+#EXTINF:-1,AR | beIN Sports 12 HD B (ENG)
+http://abczu.xyz:25461/live/oscar2/oscar2/13527.ts
+#EXTINF:-1,AR | beIN Sports 13 HD (ENG)
+http://abczu.xyz:25461/live/oscar2/oscar2/13525.ts
+#EXTINF:-1,AR | beIN Sports 14 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13524.ts
+#EXTINF:-1,AR | beIN Sports 15 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13523.ts
+#EXTINF:-1,Beinsport h265-1
+http://abczu.xyz:25461/live/oscar2/oscar2/18989.ts
+#EXTINF:-1,Beinsport h265-2
+http://abczu.xyz:25461/live/oscar2/oscar2/18988.ts
+#EXTINF:-1,Beinsport h265-3
+http://abczu.xyz:25461/live/oscar2/oscar2/18987.ts
+#EXTINF:-1,Beinsport h265-4
+http://abczu.xyz:25461/live/oscar2/oscar2/18986.ts
+#EXTINF:-1,Beinsport h265-5
+http://abczu.xyz:25461/live/oscar2/oscar2/18985.ts
+#EXTINF:-1,Beinsport h265-6
+http://abczu.xyz:25461/live/oscar2/oscar2/18984.ts
+#EXTINF:-1,Beinsport h265-7
+http://abczu.xyz:25461/live/oscar2/oscar2/18983.ts
+#EXTINF:-1,Beinsport h265-8
+http://abczu.xyz:25461/live/oscar2/oscar2/18982.ts
+#EXTINF:-1,beIN Sports  1
+http://abczu.xyz:25461/live/oscar2/oscar2/18981.ts
+#EXTINF:-1,beIN Sports  10
+http://abczu.xyz:25461/live/oscar2/oscar2/18972.ts
+#EXTINF:-1,beIN Sports  11
+http://abczu.xyz:25461/live/oscar2/oscar2/18971.ts
+#EXTINF:-1,beIN Sports  12
+http://abczu.xyz:25461/live/oscar2/oscar2/18970.ts
+#EXTINF:-1,beIN Sports  2
+http://abczu.xyz:25461/live/oscar2/oscar2/18980.ts
+#EXTINF:-1,beIN Sports  3
+http://abczu.xyz:25461/live/oscar2/oscar2/18979.ts
+#EXTINF:-1,beIN Sports  4
+http://abczu.xyz:25461/live/oscar2/oscar2/18978.ts
+#EXTINF:-1,beIN Sports  5
+http://abczu.xyz:25461/live/oscar2/oscar2/18977.ts
+#EXTINF:-1,beIN Sports  6
+http://abczu.xyz:25461/live/oscar2/oscar2/18976.ts
+#EXTINF:-1,beIN Sports  7
+http://abczu.xyz:25461/live/oscar2/oscar2/18975.ts
+#EXTINF:-1,beIN Sports  8
+http://abczu.xyz:25461/live/oscar2/oscar2/18974.ts
+#EXTINF:-1,beIN Sports  9
+http://abczu.xyz:25461/live/oscar2/oscar2/18973.ts
+#EXTINF:-1,Osn:Sport1(osn)
+http://abczu.xyz:25461/live/oscar2/oscar2/9619.ts
+#EXTINF:-1,Osn:Sport2(osn)
+http://abczu.xyz:25461/live/oscar2/oscar2/9618.ts
+#EXTINF:-1,Osn:Sport3(osn)
+http://abczu.xyz:25461/live/oscar2/oscar2/9617.ts
+#EXTINF:-1,Osn:Sport4(osn)
+http://abczu.xyz:25461/live/oscar2/oscar2/9616.ts
+
+#EXTINF:-1 group-title="UK Sports",Uk: LFC TV
+http://abczu.xyz:25461/live/oscar2/oscar2/19840.ts
+#EXTINF:-1,Uk: Mu.Tv
+http://abczu.xyz:25461/live/oscar2/oscar2/9669.ts
+#EXTINF:-1,Uk: Chelsea.FC
+http://abczu.xyz:25461/live/oscar2/oscar2/9671.ts
+#EXTINF:-1,Uk: BT Sport 1
+http://abczu.xyz:25461/live/oscar2/oscar2/9674.ts
+#EXTINF:-1,Uk: BT Sport 2
+http://abczu.xyz:25461/live/oscar2/oscar2/9673.ts
+#EXTINF:-1,Uk: BT Sport 1HD
+http://abczu.xyz:25461/live/oscar2/oscar2/9734.ts
+#EXTINF:-1,Uk: BT Sport ESPN
+http://abczu.xyz:25461/live/oscar2/oscar2/9787.ts
+#EXTINF:-1,Uk: BT Sport 3HD
+http://abczu.xyz:25461/live/oscar2/oscar2/9736.ts
+#EXTINF:-1,Uk: BT Sport 2HD
+http://abczu.xyz:25461/live/oscar2/oscar2/9735.ts
+#EXTINF:-1,Uk: Sky Sport Action HD
+http://abczu.xyz:25461/live/oscar2/oscar2/9685.ts
+#EXTINF:-1,Uk: Sky Sport Mix
+http://abczu.xyz:25461/live/oscar2/oscar2/9730.ts
+#EXTINF:-1,Uk: Sky Sport Main Event (b)
+http://abczu.xyz:25461/live/oscar2/oscar2/9688.ts
+#EXTINF:-1,Uk: Sky Sport Main Event HD
+http://abczu.xyz:25461/live/oscar2/oscar2/9689.ts
+#EXTINF:-1,Uk: Sky Sport Premier League (b)
+http://abczu.xyz:25461/live/oscar2/oscar2/9681.ts
+#EXTINF:-1,Uk: Sky Sports Box Office  ( PPV LIVE During live Events )
+http://abczu.xyz:25461/live/oscar2/oscar2/12814.ts
+#EXTINF:-1,Uk: Sky.Sport.News
+http://abczu.xyz:25461/live/oscar2/oscar2/9740.ts
+#EXTINF:-1,Uk: SkyPremier Sport
+http://abczu.xyz:25461/live/oscar2/oscar2/9675.ts
+#EXTINF:-1,Uk: Sky Sport Premier League
+http://abczu.xyz:25461/live/oscar2/oscar2/9680.ts
+#EXTINF:-1,Uk: Sky Sport Arena HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13121.ts
+#EXTINF:-1,Uk: Sky Sport Football
+http://abczu.xyz:25461/live/oscar2/oscar2/13125.ts
+#EXTINF:-1,UK: Sky Sports Box Office PPV
+http://abczu.xyz:25461/live/oscar2/oscar2/13482.ts
+#EXTINF:-1,UK: Sky Sports Box Office PPV (Live During Events Only)
+http://abczu.xyz:25461/live/oscar2/oscar2/13132.ts
+#EXTINF:-1,UK: talkSPORT
+http://abczu.xyz:25461/live/oscar2/oscar2/15622.ts
+#EXTINF:-1,Uk: EuroSport 1
+http://abczu.xyz:25461/live/oscar2/oscar2/9677.ts
+#EXTINF:-1,Uk: EuroSport 2
+http://abczu.xyz:25461/live/oscar2/oscar2/9676.ts
+#EXTINF:-1,Uk: Eir Sport 1
+http://abczu.xyz:25461/live/oscar2/oscar2/13123.ts
+#EXTINF:-1,Uk: Eir Sport 2
+http://abczu.xyz:25461/live/oscar2/oscar2/13124.ts
+#EXTINF:-1,UK: PPV 1 (Live During Events Only)
+http://abczu.xyz:25461/live/oscar2/oscar2/13130.ts
+#EXTINF:-1,UK: PPV 2  (Live During Events Only)
+http://abczu.xyz:25461/live/oscar2/oscar2/13129.ts
+#EXTINF:-1,UK: PPV One
+http://abczu.xyz:25461/live/oscar2/oscar2/15624.ts
+#EXTINF:-1,UK: PPV Two
+http://abczu.xyz:25461/live/oscar2/oscar2/15623.ts
+
+#EXTINF:-1 group-title="UK-US Movies",24/7 24
+http://abczu.xyz:25461/live/oscar2/oscar2/17662.ts
+#EXTINF:-1,24/7 Fast and Furious Movies
+http://abczu.xyz:25461/live/oscar2/oscar2/15603.ts
+#EXTINF:-1,24/7 House of Cards
+http://abczu.xyz:25461/live/oscar2/oscar2/17655.ts
+#EXTINF:-1,24/7 Prison Break
+http://abczu.xyz:25461/live/oscar2/oscar2/15596.ts
+#EXTINF:-1,24/7: SMURFS
+http://abczu.xyz:25461/live/oscar2/oscar2/17615.ts
+#EXTINF:-1,24/7: MASH
+http://abczu.xyz:25461/live/oscar2/oscar2/17626.ts
+#EXTINF:-1,24/7: GAME OF THRONES
+http://abczu.xyz:25461/live/oscar2/oscar2/17629.ts
+#EXTINF:-1,24/7 Van Damme Movies
+http://abczu.xyz:25461/live/oscar2/oscar2/15586.ts
+#EXTINF:-1,24/7 Prision Break
+http://abczu.xyz:25461/live/oscar2/oscar2/17668.ts
+#EXTINF:-1,24/7 Punisher
+http://abczu.xyz:25461/live/oscar2/oscar2/17633.ts
+#EXTINF:-1,24/7 GAME OF THRONES
+http://abczu.xyz:25461/live/oscar2/oscar2/12832.ts
+#EXTINF:-1,Mr Bean
+http://abczu.xyz:25461/live/oscar2/oscar2/13522.ts
+#EXTINF:-1,UK: BOX OFFICE 3D
+http://abczu.xyz:25461/live/oscar2/oscar2/13497.ts
+#EXTINF:-1,UK: BOX OFFICE HD 1
+http://abczu.xyz:25461/live/oscar2/oscar2/13496.ts
+#EXTINF:-1,UK: BOX OFFICE HD 2
+http://abczu.xyz:25461/live/oscar2/oscar2/13495.ts
+#EXTINF:-1,UK: BOX OFFICE HD 3
+http://abczu.xyz:25461/live/oscar2/oscar2/13494.ts
+#EXTINF:-1,UK: BOX OFFICE HD 4
+http://abczu.xyz:25461/live/oscar2/oscar2/13493.ts
+#EXTINF:-1,UK: BOX OFFICE PPV
+http://abczu.xyz:25461/live/oscar2/oscar2/13483.ts
+#EXTINF:-1,Uk: CBS.Action
+http://abczu.xyz:25461/live/oscar2/oscar2/9759.ts
+#EXTINF:-1,Uk: CBS.Reality
+http://abczu.xyz:25461/live/oscar2/oscar2/9757.ts
+#EXTINF:-1,Uk: Discovery.CI
+http://abczu.xyz:25461/live/oscar2/oscar2/9712.ts
+#EXTINF:-1,Uk: Discovery.Sc
+http://abczu.xyz:25461/live/oscar2/oscar2/9713.ts
+#EXTINF:-1,UK: ITV Box Office PPV (Live During Events Only)
+http://abczu.xyz:25461/live/oscar2/oscar2/13131.ts
+#EXTINF:-1,UK: SKY MOVIES CHRISTMAS
+http://abczu.xyz:25461/live/oscar2/oscar2/13489.ts
+#EXTINF:-1,UK: Sky Movies Modern Great HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13488.ts
+#EXTINF:-1,UK: Sky News FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/9670.ts
+#EXTINF:-1,Uk: Sky Movies Premiere
+http://abczu.xyz:25461/live/oscar2/oscar2/9772.ts
+#EXTINF:-1,Uk: Sky Movies ScFiHorror
+http://abczu.xyz:25461/live/oscar2/oscar2/9771.ts
+#EXTINF:-1,Uk: Sky Movies Thriller
+http://abczu.xyz:25461/live/oscar2/oscar2/9777.ts
+#EXTINF:-1,Uk: Sky Movies Drama
+http://abczu.xyz:25461/live/oscar2/oscar2/9775.ts
+#EXTINF:-1,Uk: Sky Hits
+http://abczu.xyz:25461/live/oscar2/oscar2/9768.ts
+#EXTINF:-1,Uk: Sky Movies Family
+http://abczu.xyz:25461/live/oscar2/oscar2/9776.ts
+#EXTINF:-1,Uk: Sky Movies Action
+http://abczu.xyz:25461/live/oscar2/oscar2/9778.ts
+#EXTINF:-1,Uk: Sky Movies Classic
+http://abczu.xyz:25461/live/oscar2/oscar2/9769.ts
+#EXTINF:-1,Uk: True.Movie
+http://abczu.xyz:25461/live/oscar2/oscar2/9767.ts
+#EXTINF:-1,True Crime
+http://abczu.xyz:25461/live/oscar2/oscar2/15636.ts
+#EXTINF:-1,US:Cinemax
+http://abczu.xyz:25461/live/oscar2/oscar2/7485.ts
+#EXTINF:-1,US:Cinemax 5 Starmax
+http://abczu.xyz:25461/live/oscar2/oscar2/7449.ts
+#EXTINF:-1,US:CINEMAX ACTIONMAX
+http://abczu.xyz:25461/live/oscar2/oscar2/7462.ts
+#EXTINF:-1,US:Cinemax East
+http://abczu.xyz:25461/live/oscar2/oscar2/7448.ts
+#EXTINF:-1,US:Cinemax Moremax
+http://abczu.xyz:25461/live/oscar2/oscar2/7447.ts
+#EXTINF:-1,US:HBO
+http://abczu.xyz:25461/live/oscar2/oscar2/7468.ts
+#EXTINF:-1,US:HBO Comedy HD
+http://abczu.xyz:25461/live/oscar2/oscar2/7467.ts
+#EXTINF:-1,US:HBO East
+http://abczu.xyz:25461/live/oscar2/oscar2/7466.ts
+#EXTINF:-1,US:HBO Family
+http://abczu.xyz:25461/live/oscar2/oscar2/7465.ts
+#EXTINF:-1,US:HBO SIGNATURE
+http://abczu.xyz:25461/live/oscar2/oscar2/7463.ts
+#EXTINF:-1,US:HBO Zone HD
+http://abczu.xyz:25461/live/oscar2/oscar2/7464.ts
+#EXTINF:-1,US:Investigation Discovery
+http://abczu.xyz:25461/live/oscar2/oscar2/7492.ts
+#EXTINF:-1,US:Starz Cinema
+http://abczu.xyz:25461/live/oscar2/oscar2/7432.ts
+#EXTINF:-1,US:BOX OFFICE MOVIES
+http://abczu.xyz:25461/live/oscar2/oscar2/14088.ts
+
+#EXTINF:-1 group-title="UK-US Music",Uk: MTV.Hits
+http://abczu.xyz:25461/live/oscar2/oscar2/9694.ts
+#EXTINF:-1,Uk: MTV.Dance
+http://abczu.xyz:25461/live/oscar2/oscar2/9692.ts
+#EXTINF:-1,Uk: MTV.Music
+http://abczu.xyz:25461/live/oscar2/oscar2/9693.ts
+#EXTINF:-1,Uk: MTV.Rocks
+http://abczu.xyz:25461/live/oscar2/oscar2/9782.ts
+#EXTINF:-1,Uk: MTV.Classic
+http://abczu.xyz:25461/live/oscar2/oscar2/9691.ts
+#EXTINF:-1,UK: MTV BASE
+http://abczu.xyz:25461/live/oscar2/oscar2/15610.ts
+#EXTINF:-1,UK: MTV Beats
+http://abczu.xyz:25461/live/oscar2/oscar2/15611.ts
+#EXTINF:-1,UK: NOW 80s
+http://abczu.xyz:25461/live/oscar2/oscar2/15628.ts
+#EXTINF:-1,UK: NOW XMAS
+http://abczu.xyz:25461/live/oscar2/oscar2/15627.ts
+#EXTINF:-1,UK:POP MAX
+http://abczu.xyz:25461/live/oscar2/oscar2/12817.ts
+#EXTINF:-1,UK:POP
+http://abczu.xyz:25461/live/oscar2/oscar2/12818.ts
+#EXTINF:-1,UK | TINY_POP
+http://abczu.xyz:25461/live/oscar2/oscar2/11573.ts
+#EXTINF:-1,UK: VH1
+http://abczu.xyz:25461/live/oscar2/oscar2/15634.ts
+#EXTINF:-1,UK: Vintage TV
+http://abczu.xyz:25461/live/oscar2/oscar2/15633.ts
+#EXTINF:-1,UK: VIVA
+http://abczu.xyz:25461/live/oscar2/oscar2/15632.ts
+#EXTINF:-1,UK: Vox Africa
+http://abczu.xyz:25461/live/oscar2/oscar2/15631.ts
+#EXTINF:-1,Box Hits
+http://abczu.xyz:25461/live/oscar2/oscar2/15654.ts
+#EXTINF:-1,Chilled 90s
+http://abczu.xyz:25461/live/oscar2/oscar2/15646.ts
+#EXTINF:-1,US:MTV
+http://abczu.xyz:25461/live/oscar2/oscar2/7437.ts
+#EXTINF:-1,US:MTV LIVE
+http://abczu.xyz:25461/live/oscar2/oscar2/7436.ts
+#EXTINF:-1,US:VH1
+http://abczu.xyz:25461/live/oscar2/oscar2/7471.ts
+#EXTINF:-1,US:VH1 (B)
+http://abczu.xyz:25461/live/oscar2/oscar2/7470.ts
+#EXTINF:-1,US:VH1 (East)
+http://abczu.xyz:25461/live/oscar2/oscar2/14089.ts
+#EXTINF:-1,US:VH1 (West)
+http://abczu.xyz:25461/live/oscar2/oscar2/14090.ts
+#EXTINF:-1,US:VH1 Classic
+http://abczu.xyz:25461/live/oscar2/oscar2/14091.ts
+#EXTINF:-1,Music | Chart Show Dance
+http://abczu.xyz:25461/live/oscar2/oscar2/12851.ts
+#EXTINF:-1,Music | Chart Show TV
+http://abczu.xyz:25461/live/oscar2/oscar2/12852.ts
+#EXTINF:-1,Music | City TV
+http://abczu.xyz:25461/live/oscar2/oscar2/12853.ts
+#EXTINF:-1,Music | MCM
+http://abczu.xyz:25461/live/oscar2/oscar2/12841.ts
+#EXTINF:-1,Music | MTV Base HD
+http://abczu.xyz:25461/live/oscar2/oscar2/12844.ts
+#EXTINF:-1,Music | MTV Classic
+http://abczu.xyz:25461/live/oscar2/oscar2/12850.ts
+#EXTINF:-1,Music | MTV Dance HD
+http://abczu.xyz:25461/live/oscar2/oscar2/12849.ts
+#EXTINF:-1,Music | MTV Hits HD*
+http://abczu.xyz:25461/live/oscar2/oscar2/12848.ts
+#EXTINF:-1,Music | MTV Music
+http://abczu.xyz:25461/live/oscar2/oscar2/12847.ts
+#EXTINF:-1,Music | MTV Rocks
+http://abczu.xyz:25461/live/oscar2/oscar2/12846.ts
+#EXTINF:-1,Music | NRJ HITS HD
+http://abczu.xyz:25461/live/oscar2/oscar2/12845.ts
+#EXTINF:-1,Music | Pop Music (Hit Music)
+http://abczu.xyz:25461/live/oscar2/oscar2/12840.ts
+#EXTINF:-1,Music | R&B 24/7 (Radio)
+http://abczu.xyz:25461/live/oscar2/oscar2/12837.ts
+#EXTINF:-1,Music | R&B n Rap 24/7 (Radio)
+http://abczu.xyz:25461/live/oscar2/oscar2/12836.ts
+#EXTINF:-1,Music | Ragga Jungle - Drum and Bass
+http://abczu.xyz:25461/live/oscar2/oscar2/12839.ts
+#EXTINF:-1,Music | Rap/Hip Hop Live (Radio)
+http://abczu.xyz:25461/live/oscar2/oscar2/12835.ts
+#EXTINF:-1,Music | Reggaeton (Radio)
+http://abczu.xyz:25461/live/oscar2/oscar2/12838.ts
+#EXTINF:-1,Music | UTV
+http://abczu.xyz:25461/live/oscar2/oscar2/12843.ts
+#EXTINF:-1,Music | XITE HD
+http://abczu.xyz:25461/live/oscar2/oscar2/12842.ts
+#EXTINF:-1,NCS Gaming Music Radio
+http://abczu.xyz:25461/live/oscar2/oscar2/13503.ts
+#EXTINF:-1,Relaxing Jazz & Bossa Nova Radio
+http://abczu.xyz:25461/live/oscar2/oscar2/13499.ts
+#EXTINF:-1,Study Music Radio
+http://abczu.xyz:25461/live/oscar2/oscar2/13501.ts
+#EXTINF:-1,US: CMT - Country Music Television (EAST)
+http://abczu.xyz:25461/live/oscar2/oscar2/14041.ts
+#EXTINF:-1,US: CMT - Country Music Television (WEST)
+http://abczu.xyz:25461/live/oscar2/oscar2/14042.ts
+#EXTINF:-1,US:MTV (East)
+http://abczu.xyz:25461/live/oscar2/oscar2/14043.ts
+#EXTINF:-1,US:MTV (West)
+http://abczu.xyz:25461/live/oscar2/oscar2/14044.ts
+
+#EXTINF:-1 group-title="US Sports",US:beIN Sports
+http://abczu.xyz:25461/live/oscar2/oscar2/7419.ts
+#EXTINF:-1,US:NBA TV
+http://abczu.xyz:25461/live/oscar2/oscar2/7406.ts
+#EXTINF:-1,US:NBCSN
+http://abczu.xyz:25461/live/oscar2/oscar2/7504.ts
+#EXTINF:-1,US: NBC Sport FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/11018.ts
+#EXTINF:-1,US:ESPN 2 FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/10997.ts
+#EXTINF:-1,US:ESPN FHD
+http://abczu.xyz:25461/live/oscar2/oscar2/10998.ts
+#EXTINF:-1,US:Fox Sports 2 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/14068.ts
+#EXTINF:-1,US:Fox Soccer Plus HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10999.ts
+#EXTINF:-1,NBCSN EPL Live Match 1 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10988.ts
+#EXTINF:-1,NBCSN EPL Live Match 2 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10987.ts
+#EXTINF:-1,NBCSN EPL Live Match 3 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10986.ts
+#EXTINF:-1,NBCSN EPL Live Match 4 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10985.ts
+#EXTINF:-1,NBCSN EPL Live Match 5 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10984.ts
+#EXTINF:-1,NBCSN EPL Live Match 6 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10983.ts
+#EXTINF:-1,NBCSN EPL Live Match 7 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10982.ts
+#EXTINF:-1,NBCSN EPL Live Match 8 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10981.ts
+#EXTINF:-1,NBCSN EPL Live Match 9 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10980.ts
+#EXTINF:-1,NBCSN EPL Live Match 10 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10979.ts
+#EXTINF:-1,NBCSN EPL Live Match 11 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10978.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 1 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10947.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 2 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10943.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 3 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10942.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 4 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10941.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 5 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10940.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 6 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10939.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 7 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10938.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 8 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10937.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 9 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10936.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 10 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10946.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 14 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10945.ts
+#EXTINF:-1,NBA LEAGUE PASS LIVE 15 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10944.ts
+#EXTINF:-1,US:CBS Sports
+http://abczu.xyz:25461/live/oscar2/oscar2/7421.ts
+#EXTINF:-1,US:ESPN
+http://abczu.xyz:25461/live/oscar2/oscar2/7414.ts
+#EXTINF:-1,US:ESPN 2
+http://abczu.xyz:25461/live/oscar2/oscar2/7412.ts
+#EXTINF:-1,US:ESPN 3
+http://abczu.xyz:25461/live/oscar2/oscar2/7411.ts
+#EXTINF:-1,US:Fox Soccer
+http://abczu.xyz:25461/live/oscar2/oscar2/7415.ts
+#EXTINF:-1,US:Fox Sport 506
+http://abczu.xyz:25461/live/oscar2/oscar2/7416.ts
+#EXTINF:-1,US:Fox Sports 1
+http://abczu.xyz:25461/live/oscar2/oscar2/7418.ts
+#EXTINF:-1,US:Fox Sports 2
+http://abczu.xyz:25461/live/oscar2/oscar2/7417.ts
+#EXTINF:-1,US:ESPN News
+http://abczu.xyz:25461/live/oscar2/oscar2/7410.ts
+#EXTINF:-1,TSN SPORT 1 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/12859.ts
+#EXTINF:-1,TSN SPORT 2 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/12858.ts
+#EXTINF:-1,TSN SPORT 3 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/12857.ts
+#EXTINF:-1,TSN SPORT 4 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/12856.ts
+#EXTINF:-1,TSN SPORT 5 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/12954.ts
+
+#EXTINF:-1 group-title="ES-PT Sports",ES: Barca TV
+http://abczu.xyz:25461/live/oscar2/oscar2/6336.ts
+#EXTINF:-1,ES: Bein LaLiga
+http://abczu.xyz:25461/live/oscar2/oscar2/6374.ts
+#EXTINF:-1,ES: Bein Sport Espana
+http://abczu.xyz:25461/live/oscar2/oscar2/6337.ts
+#EXTINF:-1,ES: Canal  Deportes
+http://abczu.xyz:25461/live/oscar2/oscar2/6338.ts
+#EXTINF:-1,ES: Sevilla Channel
+http://abczu.xyz:25461/live/oscar2/oscar2/6355.ts
+#EXTINF:-1,PT: NBA TV
+http://abczu.xyz:25461/live/oscar2/oscar2/6462.ts
+#EXTINF:-1,PT:CHELSEA TV HD
+http://abczu.xyz:25461/live/oscar2/oscar2/6423.ts
+#EXTINF:-1,PT: SPORT TV   HD
+http://abczu.xyz:25461/live/oscar2/oscar2/14138.ts
+#EXTINF:-1,PT: SPORT TV 1
+http://abczu.xyz:25461/live/oscar2/oscar2/14136.ts
+#EXTINF:-1,PT: SPORT TV 2
+http://abczu.xyz:25461/live/oscar2/oscar2/14134.ts
+#EXTINF:-1,PT: SPORT TV 3
+http://abczu.xyz:25461/live/oscar2/oscar2/14132.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://abczu.xyz:25461/live/oscar2/oscar2/14130.ts
+#EXTINF:-1,PT: SPort tv 5
+http://abczu.xyz:25461/live/oscar2/oscar2/14129.ts
+
+#EXTINF:-1 group-title="FR Sports",Fr: Canal  Sport
+http://abczu.xyz:25461/live/oscar2/oscar2/9428.ts
+#EXTINF:-1,FR | CANAL _SPORT_HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11568.ts
+#EXTINF:-1,Fr: EuroSport
+http://abczu.xyz:25461/live/oscar2/oscar2/9375.ts
+#EXTINF:-1,FR | EUROSPORT_1_HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11519.ts
+#EXTINF:-1,Fr | EuroSport 2
+http://abczu.xyz:25461/live/oscar2/oscar2/9374.ts
+#EXTINF:-1,FR | EUROSPORT_2_HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11518.ts
+#EXTINF:-1,Fr: Sfr Sport 1
+http://abczu.xyz:25461/live/oscar2/oscar2/9403.ts
+#EXTINF:-1,Fr: Sfr Sport 2
+http://abczu.xyz:25461/live/oscar2/oscar2/9404.ts
+#EXTINF:-1,Fr: Sfr Sport 3
+http://abczu.xyz:25461/live/oscar2/oscar2/9371.ts
+#EXTINF:-1,Fr: Sfr Sport 5
+http://abczu.xyz:25461/live/oscar2/oscar2/9369.ts
+#EXTINF:-1,Fr: BeIN Sport 1
+http://abczu.xyz:25461/live/oscar2/oscar2/9383.ts
+#EXTINF:-1,FR | BeIN_SPORT_1_HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11511.ts
+#EXTINF:-1,FR | BeIN_SPORT_1_HD_S2
+http://abczu.xyz:25461/live/oscar2/oscar2/11508.ts
+#EXTINF:-1,Fr: BeIN Sport 2
+http://abczu.xyz:25461/live/oscar2/oscar2/9382.ts
+#EXTINF:-1,FR | BeIN_SPORT_2_HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11510.ts
+#EXTINF:-1,FR | BeIN_SPORT_2_HD_(b)
+http://abczu.xyz:25461/live/oscar2/oscar2/11507.ts
+#EXTINF:-1,Fr: BeIN Sport 3
+http://abczu.xyz:25461/live/oscar2/oscar2/9381.ts
+#EXTINF:-1,FR | BeIN_SPORT_3_HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11509.ts
+#EXTINF:-1,FR | BeIN_SPORT_3_HD_S2
+http://abczu.xyz:25461/live/oscar2/oscar2/11506.ts
+#EXTINF:-1,FR | BeIN_SPORT_MAX4
+http://abczu.xyz:25461/live/oscar2/oscar2/11505.ts
+#EXTINF:-1,FR | BeIN_SPORT_MAX5
+http://abczu.xyz:25461/live/oscar2/oscar2/11504.ts
+#EXTINF:-1,FR | BeIN_SPORT_MAX6
+http://abczu.xyz:25461/live/oscar2/oscar2/11503.ts
+#EXTINF:-1,FR | BeIN_SPORT_MAX7
+http://abczu.xyz:25461/live/oscar2/oscar2/11502.ts
+#EXTINF:-1,FR | BeIN_SPORT_MAX8
+http://abczu.xyz:25461/live/oscar2/oscar2/11501.ts
+#EXTINF:-1,FR | BeIN_SPORT_MAX9
+http://abczu.xyz:25461/live/oscar2/oscar2/11500.ts
+#EXTINF:-1,FR | BeIN_SPORT_MAX10
+http://abczu.xyz:25461/live/oscar2/oscar2/11499.ts
+#EXTINF:-1,FR | INFOSPORT _HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11517.ts
+#EXTINF:-1,FR | SFR_SPORT_1_HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11529.ts
+#EXTINF:-1,FR | SFR_SPORT_1_S2
+http://abczu.xyz:25461/live/oscar2/oscar2/11524.ts
+#EXTINF:-1,FR | SFR SPORT 2_HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11528.ts
+#EXTINF:-1,FR | SFR SPORT 2 S2
+http://abczu.xyz:25461/live/oscar2/oscar2/11523.ts
+#EXTINF:-1,FR | SFR_SPORT_3_HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11527.ts
+#EXTINF:-1,FR | SFR_SPORT_3_S2
+http://abczu.xyz:25461/live/oscar2/oscar2/11522.ts
+#EXTINF:-1,FR | SFR_SPORT_5_HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11525.ts
+
+#EXTINF:-1 group-title="DE-IT Sports",De: Sky BundesLiga 1
+http://abczu.xyz:25461/live/oscar2/oscar2/9495.ts
+#EXTINF:-1,De: Sky BundesLiga 2
+http://abczu.xyz:25461/live/oscar2/oscar2/9467.ts
+#EXTINF:-1,De: Sky Sport 1
+http://abczu.xyz:25461/live/oscar2/oscar2/9469.ts
+#EXTINF:-1,De: Sky Sport 2
+http://abczu.xyz:25461/live/oscar2/oscar2/9468.ts
+#EXTINF:-1,De: Sky Sport 3
+http://abczu.xyz:25461/live/oscar2/oscar2/9460.ts
+#EXTINF:-1,De: Sky Sport 4
+http://abczu.xyz:25461/live/oscar2/oscar2/9466.ts
+#EXTINF:-1,De: Sky Sport Austria
+http://abczu.xyz:25461/live/oscar2/oscar2/9493.ts
+#EXTINF:-1,IT | Eurosport 1 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10412.ts
+#EXTINF:-1,IT | Eurosport 2 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10411.ts
+#EXTINF:-1,IT | Premium Sport 2 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10379.ts
+#EXTINF:-1,IT | Premium Sport HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10377.ts
+#EXTINF:-1,IT | Premium Sport HD *
+http://abczu.xyz:25461/live/oscar2/oscar2/10376.ts
+#EXTINF:-1,IT | Sky Sport 1 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10344.ts
+#EXTINF:-1,IT | Sky Sport 2 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10343.ts
+#EXTINF:-1,IT | Sky Sport 24 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10342.ts
+#EXTINF:-1,IT | Sky Sport 3 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/10341.ts
+
+#EXTINF:-1 group-title="TR Sports",TR: A Spor HD
+http://abczu.xyz:25461/live/oscar2/oscar2/6199.ts
+#EXTINF:-1,TR: beIN SPORTS 1 HD ( Lig TV 1 )
+http://abczu.xyz:25461/live/oscar2/oscar2/6173.ts
+#EXTINF:-1,TR: beIN SPORTS 2 HD  ( Lig TV 2 )
+http://abczu.xyz:25461/live/oscar2/oscar2/6172.ts
+#EXTINF:-1,TR: beIN SPORTS 3 HD  ( Lig TV 3 )
+http://abczu.xyz:25461/live/oscar2/oscar2/6171.ts
+#EXTINF:-1,TR: beIN SPORTS 4 HD  ( Lig TV 4 )
+http://abczu.xyz:25461/live/oscar2/oscar2/6170.ts
+#EXTINF:-1,TR: TIVIBU SPORT 1
+http://abczu.xyz:25461/live/oscar2/oscar2/6204.ts
+#EXTINF:-1,TR: TIVIBU SPORT 2
+http://abczu.xyz:25461/live/oscar2/oscar2/6203.ts
+#EXTINF:-1,TR: TIVIBU SPORT 3
+http://abczu.xyz:25461/live/oscar2/oscar2/6202.ts
+#EXTINF:-1,TR: TIVIBU SPORT 4
+http://abczu.xyz:25461/live/oscar2/oscar2/6201.ts
+#EXTINF:-1,TR:FENERBAHCE TV
+http://abczu.xyz:25461/live/oscar2/oscar2/6210.ts
+#EXTINF:-1,TR:GALATASARAY TV
+http://abczu.xyz:25461/live/oscar2/oscar2/6211.ts
+
+#EXTINF:-1 group-title="Extra Sports",CN: CCTV 5hd
+http://abczu.xyz:25461/live/oscar2/oscar2/11247.ts
+#EXTINF:-1,CN: CCTV5 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/11246.ts
+#EXTINF:-1,RO |  Digi Sport 1
+http://abczu.xyz:25461/live/oscar2/oscar2/13309.ts
+#EXTINF:-1,RO |  Digi Sport 2
+http://abczu.xyz:25461/live/oscar2/oscar2/13308.ts
+#EXTINF:-1,RO |  Digi Sport 3
+http://abczu.xyz:25461/live/oscar2/oscar2/13307.ts
+#EXTINF:-1,RO |  Digi Sport 4
+http://abczu.xyz:25461/live/oscar2/oscar2/13306.ts
+#EXTINF:-1,RO |  Dolce Sport 1
+http://abczu.xyz:25461/live/oscar2/oscar2/13303.ts
+#EXTINF:-1,RO |  Dolce Sport 2
+http://abczu.xyz:25461/live/oscar2/oscar2/13302.ts
+#EXTINF:-1,RO |  Dolce Sport 3
+http://abczu.xyz:25461/live/oscar2/oscar2/13301.ts
+#EXTINF:-1,RO |  Eurosport 1
+http://abczu.xyz:25461/live/oscar2/oscar2/13300.ts
+#EXTINF:-1,RO |  Eurosport 2
+http://abczu.xyz:25461/live/oscar2/oscar2/13299.ts
+#EXTINF:-1,SP: LE SPORTS NOW 1 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13464.ts
+#EXTINF:-1,SP: LE SPORTS NOW 2 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13463.ts
+#EXTINF:-1,SP: LE SPORTS NOW 3 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13462.ts
+#EXTINF:-1,SP: LE SPORTS NOW 4 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13461.ts
+#EXTINF:-1,SP: LE SPORTS NOW 5 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13460.ts
+#EXTINF:-1,SP: LE SPORTS NOW 6 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13459.ts
+#EXTINF:-1,SP: LE SPORTS NOW 7 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13458.ts
+#EXTINF:-1,SP: LE SPORTS NOW 8 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13457.ts
+#EXTINF:-1,SP: LE SPORTS NOW 9 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13456.ts
+#EXTINF:-1,SP: LE SPORTS NOW 10 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13455.ts
+#EXTINF:-1,Sky Sports Premier League HD 3pms
+http://abczu.xyz:25461/live/oscar2/oscar2/12855.ts
+#EXTINF:-1,SE: C More Sport HD
+http://abczu.xyz:25461/live/oscar2/oscar2/12265.ts
+#EXTINF:-1,SE: EuroSport 1 SE
+http://abczu.xyz:25461/live/oscar2/oscar2/12248.ts
+#EXTINF:-1,SE: EuroSport 2 SE
+http://abczu.xyz:25461/live/oscar2/oscar2/12247.ts
+#EXTINF:-1,SE: TV3 Sport
+http://abczu.xyz:25461/live/oscar2/oscar2/12297.ts
+#EXTINF:-1,SE: TV4 Sport
+http://abczu.xyz:25461/live/oscar2/oscar2/12296.ts
+#EXTINF:-1,SE: Viasat Sport Premium
+http://abczu.xyz:25461/live/oscar2/oscar2/12257.ts
+#EXTINF:-1,SP: Astro Sports 4
+http://abczu.xyz:25461/live/oscar2/oscar2/13438.ts
+#EXTINF:-1,SP: Astro SuperSports 1
+http://abczu.xyz:25461/live/oscar2/oscar2/13441.ts
+#EXTINF:-1,SP: Astro SuperSports 2
+http://abczu.xyz:25461/live/oscar2/oscar2/13440.ts
+#EXTINF:-1,SP: Astro SuperSports 3
+http://abczu.xyz:25461/live/oscar2/oscar2/13439.ts
+#EXTINF:-1,SP: CRO SPORT KLUB 1 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13470.ts
+#EXTINF:-1,SP: CRO SPORT KLUB 2 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13469.ts
+#EXTINF:-1,SP: CRO SPORT KLUB 3 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13468.ts
+#EXTINF:-1,SP: CRO SPORT KLUB 4 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13467.ts
+#EXTINF:-1,SP: CRO SPORT KLUB 5 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13466.ts
+#EXTINF:-1,SP: CRO SPORT KLUB 6 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13465.ts
+#EXTINF:-1,SP: SKYNET SPORTS 1
+http://abczu.xyz:25461/live/oscar2/oscar2/13447.ts
+#EXTINF:-1,SP: SKYNET SPORTS 2
+http://abczu.xyz:25461/live/oscar2/oscar2/13446.ts
+#EXTINF:-1,SP: SKYNET SPORTS 4
+http://abczu.xyz:25461/live/oscar2/oscar2/13444.ts
+#EXTINF:-1,SP: SKYNET SPORTS 5
+http://abczu.xyz:25461/live/oscar2/oscar2/13443.ts
+#EXTINF:-1,SP: SKYNET SPORTS 6
+http://abczu.xyz:25461/live/oscar2/oscar2/13442.ts
+#EXTINF:-1,SP: SKYNET SPORTS HD
+http://abczu.xyz:25461/live/oscar2/oscar2/13448.ts
+#EXTINF:-1,SP:SKYNET SPORTS 3
+http://abczu.xyz:25461/live/oscar2/oscar2/13445.ts
+
+#EXTINF:-1 group-title="BR Sports",BR: Fox Sports
+http://abczu.xyz:25461/live/oscar2/oscar2/19545.ts
+#EXTINF:-1,BR: Fox Sports 2
+http://abczu.xyz:25461/live/oscar2/oscar2/19544.ts
+#EXTINF:-1,BR: Fox Sports 2 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/19543.ts
+#EXTINF:-1,BR: Fox Sports HD
+http://abczu.xyz:25461/live/oscar2/oscar2/19542.ts
+#EXTINF:-1,BR: Premiere Clubes
+http://abczu.xyz:25461/live/oscar2/oscar2/19471.ts
+#EXTINF:-1,BR: Premiere Clubes HD
+http://abczu.xyz:25461/live/oscar2/oscar2/19470.ts
+#EXTINF:-1,BR: SporTV
+http://abczu.xyz:25461/live/oscar2/oscar2/19458.ts
+#EXTINF:-1,BR: SporTV 2
+http://abczu.xyz:25461/live/oscar2/oscar2/19457.ts
+#EXTINF:-1,BR: SporTV 2 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/19456.ts
+#EXTINF:-1,BR: SporTV 3
+http://abczu.xyz:25461/live/oscar2/oscar2/19455.ts
+#EXTINF:-1,BR: SporTV 3 HD
+http://abczu.xyz:25461/live/oscar2/oscar2/19454.ts
+#EXTINF:-1,BR: SporTV HD
+http://abczu.xyz:25461/live/oscar2/oscar2/19453.ts
 
