@@ -40,80 +40,197 @@ http://flussonic3.cdniptv.com:9080/hls/mal-ad-sport1HD.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kiRDDPC.png",AD Sport 2 HD
 http://flussonic3.cdniptv.com:9080/hls/mal-ad-sport2HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png" group-title="Bein Sports DTL",BeINSPORTS News
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1496.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS Global
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1495.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 1HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1494.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 2HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1493.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 3HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1492.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 4HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1491.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 5HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1490.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 6HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1489.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 7HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1488.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 8HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1487.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 9HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1486.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 10HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1485.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 11HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1484.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",beINSPORTS 12HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1483.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",AD Sports 1HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1467.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",AD Sports 2HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1468.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",AD Sports 3HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1469.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",AD Sports 4HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1470.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",AD Sports 5HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1471.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",AD Sports 6HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1472.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINSPORTS 3HD Fr
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1456.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINMAX 04HD Fr
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1457.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINMAX 05HD Fr
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1458.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINMAX 06HD Fr
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1459.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINMAX 07HD Fr
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1460.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINMAX 08HD Fr
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1461.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINMAX 09HD Fr
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1462.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeINMAX 10HD Fr
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1463.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",SFR Sport 1HD Fr
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1464.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",SFR Sport 2HD Fr
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1465.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",SFR Sport 3HD Fr
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1466.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",INFOSPORT
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1419.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",FOOT 24
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1418.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MBC SPORT 1HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1293.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MBC SPORT 2HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1294.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MBC SPORT 3HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1295.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MBC SPORT 4HD
-http://2.primatv.club:2020/live/meintv1019/mHMJ9z2knr/1296.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png" group-title="Bein Sports DTL",Bein 1HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3943.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 2HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3944.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 3HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3945.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 4HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3946.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 5HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4194.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 6HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4195.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 7HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4196.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 8HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4197.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 9HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4366.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 10HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4365.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 11HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4364.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 12HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4363.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein Sports NewsHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2301.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 1HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1447.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 2HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1448.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 3HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1449.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 4HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1450.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 5HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1451.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 6HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1452.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 7HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1453.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports 8SD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1454.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports 9SD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1455.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports 10SD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1456.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Canal+Sport-FR HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/79.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports-FR-1 HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/80.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports-FR-2 HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/81.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports-FR-3 HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/82.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Abu Dhabi Sports 1HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2316.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Abu Dhabi Sports 2HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2315.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Abu Dhabi Sports 3HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4532.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Abu Dhabi Sports 4HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4533.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Sfr Sport 1
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3072.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Sfr Sport 2
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3073.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Sfr Sport 3
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3074.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Infosport+
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1238.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Foot +24
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2521.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Canal+Sport
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1226.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",EuroSport 1HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2127.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",EuroSport 2HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2055.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 4
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3954.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 5
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3953.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 6
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3952.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 7
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3951.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 8
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3950.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 9
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3949.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 10
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3948.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:Sky SportHD Serie A
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2996.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:Sky Sport unoHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1500.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:Sky Sport arenaHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1499.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:Sky Sport 24HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1498.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:Inter Channel
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4420.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:MILAN CHANNEL
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1980.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:BEINSPORT HABER
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2654.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:beIN SPORT 1HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1716.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:Bein_Sports 2HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1390.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:Bein_Sports 3HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1715.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:TRT SporHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3902.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:Sport  TV
+http://hbox.cdnss.me:80/live/belkhira/bdou1/1967.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Benfica TV 1
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4635.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Real  Madrid
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4633.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:SPORT TV +
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4600.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Sport TV 1
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2975.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Sport TV 2
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2976.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:SPORT TV 3
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4572.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Sport TV 4
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2978.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:SPORT TV 5
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4601.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Sporting TV
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4578.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NL:Fox Sports 1
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3283.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NL:Fox Sports 2
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3287.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NL:Fox Sports 3
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3288.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NL:FOX SPORTS4
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3280.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NL:FOX SPORTS 5
+http://hbox.cdnss.me:80/live/belkhira/bdou1/3279.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",(PL) Canal + SportHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2921.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ZIGGO SPORT VOETBALHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2034.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ZIGGO SPORT SELECTHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/2076.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:beIN SportsHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4959.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:BT SPORT 1HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4974.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:BT SPORT 2HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4975.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:CBS SportsHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4973.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:ESPN
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4977.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:ESPN FHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4964.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:FOX SPORTS 1 FHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4965.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:NBCSN FHD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4969.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ARENA SPORT 1SR
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4987.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ARENA SPORT 2SR
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4988.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ARENA SPORT 3SR
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4989.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ARENA SPORT 4SR
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4990.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",SUPER SPORTS 1
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4999.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",SUPER SPORTS 2
+http://hbox.cdnss.me:80/live/belkhira/bdou1/5000.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",SUPER SPORTS 3
+http://hbox.cdnss.me:80/live/belkhira/bdou1/5001.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",DAZN 1HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/4991.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",DAZN 2HD
+http://hbox.cdnss.me:80/live/belkhira/bdou1/5002.ts
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_us.jpg" group-title="Bein Sports",US:BeIN Sports HD
 http://universeiptv.com:8000/live/santino/1234/3333.m3u8
