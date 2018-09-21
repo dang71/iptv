@@ -548,8 +548,6 @@ http://universeiptv.com:8000/live/santino/1234/1025.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png" group-title="Beinout Sports",MY:Bein Sport 1HD
 http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11922.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 10HD
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11913.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 2HD
 http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11921.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 3HD
@@ -566,6 +564,8 @@ http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11916.m3u8
 http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11915.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 9HD
 http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11914.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 10HD
+http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11913.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 1
 http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/12112.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 2
