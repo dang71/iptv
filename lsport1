@@ -1,702 +1,204 @@
-#EXTM3U LSPORT1
+#EXTM3U NLSPORT1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ArygMnj.jpg" group-title="Asiad 2018", Astro Arena HD
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="Asiad 2018", Astro Supersports Go
-http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/928252165075771393/NsmDVA4F_400x400.jpg" group-title="Asiad 2018", WorkPoint FHD
-https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/ElevenSports_1.png" group-title="Asiad 2018",Eleven sports 1 
-http://61.58.60.230:9000/live/101.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="Asiad 2018",Eleven sports 2 
-http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1,AL: SuperSport 1
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9155.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AL: SuperSport 2
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9154.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AL: SuperSport 3
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9153.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AL: SuperSport 4
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9152.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AL: SuperSport 5
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9151.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png" group-title="Acestream",Match TV FHD
-acestream://2f22bcde87b6f92eb9297d5bec6788565d05eddf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match TV HD s1
-acestream://781f1e0f92475b086b3988bf45da9fbf88de3e63
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match TV HD s2
-acestream://2f22bcde87b6f92eb9297d5bec6788565d05eddf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Futbol 1 FHD (Ukraine)
-acestream://032f1608ca0b7af2d65d5b96b8228b03fb2deeb6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Futbol 2 FHD (Ukraine)
-acestream://423911ca2f577ff62d37928cdc30c2a32a769c28
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 1 FHD S1
-acestream://550d81d14fbfd07c23bd2eb6b527fdc02224bf22
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 1 FHD S2
-acestream://ae72017f8a95455f9f27f88583b2335065c89686
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 1 FHD S3
-acestream://7dfda436a7a02c4f9aaacbf71a93bb24e0bde636
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 1 FHD S4
-acestream://6e997ee88453d8c4b3b4258b583067316fa99be2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 2 FHD
-acestream://4a8e705d8e913438c2723b08f503641e7f5233bd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 3 FHD
-acestream://ea88cce911366c6cf27bb00293ca12b432d2cd17
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 1 HD s1
-acestream://92550ac34357a69bf6c734145fa359197d62fec0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 1 HD s2
-acestream://d87cbde79e861e887269da7ac8d65cda15bb60b3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 2 HD s1
-acestream://153e4a4098ada1e6150a5e62cdd58db806fddada
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 2 HD s2
-acestream://4a8e705d8e913438c2723b08f503641e7f5233bd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 2
-acestream://07ac800c781494b4d5a151c642ead19a163f2cd2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 2 (allfon)
-acestream://9069046bdf5516500338183ab35800e831fc3b72
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 3 HD s1
-acestream://70b20efc8b27aa84025b7fe5752dea186429b08c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 3 HD s2
-acestream://ea88cce911366c6cf27bb00293ca12b432d2cd17
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match! Football 3 HD (allfon)
-acestream://e11958774687a49c1ffd31c51636b81de6caa8dc
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NTV Our Football
-acestream://ffa30b553bbd245b5c4f7dcbef230ee0a7937045
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NTV Our Football HD s1
-acestream://73d8f7f6bc68b12878d73180fd06f0e3d211acfd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NTV Our Football HD s2
-acestream://4b9032f21f0c60877d8d3718ae95d7243a83bfbe
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match Premier
-acestream://6b18b21bdaddfb55c3e81455b0c5cd32402804f8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match Premier HD s1
-acestream://03ac19e5f60f2663f08c6be6292470f8ca205e19
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Match Premier HD s2
-acestream://d5eb2e5059d544c31ac59773c159a35974567cb2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Eurosport 1 FHD
-acestream://a36e6e35abf7a92a84b45d61c23efc3037a20108
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Eurosport 2 FHD
-acestream://515ca8034c92d73272ca092db37e802c19c5a601
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Eurosport 1 HD
-acestream://5e9f075c9f6703b4dd355f649c424d715570e51b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Eurosport 2 HD
-acestream://30a49eef2476820106c8292374838d03a72f2307
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Movistar Football
-acestream://211a04b9d9c13e5717b8be7fd63d6f9ab1eba761
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Movistar Football ES
-acestream://6a703df0f20ce6b041b1729d18722a3a131604ca
+#EXTINF:-1,AR: BEIN SPORT 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9076.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR: BEIN SPORT 2 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9075.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR: BEIN SPORT 3 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9074.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR: BEIN SPORT 4 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9073.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR: BEIN SPORT 5 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9072.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR: BEIN SPORT 6 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9071.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR: BEIN SPORT 7 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9070.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR: BEIN SPORT 8 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9069.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR: BEIN SPORT 9 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9068.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR: BEIN SPORT 10 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9067.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR: BEIN SPORT 11 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9066.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR: BEIN SPORT 12 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9065.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="http://manager.ndasat.pro/picons/be_in_sports_global.png" group-title="Bein Sports VLC", BEIN SPORTS HD
-http://flussonic3.cdniptv.com:9080/hls/mal-bein-sports-hd.m3u8
-#EXTINF:-1 tvg-logo="http://manager.ndasat.pro/picons/be_in_sports_news.png",BEIN SPORTS News HD
-http://flussonic3.cdniptv.com:9080/hls/bein-sport-news-hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",BEIN SPORTS 1 HD
-http://flussonic3.cdniptv.com:9080/bein1hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports2.png",BEIN SPORTS 2 HD
-http://flussonic3.cdniptv.com:9080/bein2hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",BEIN SPORTS 3 HD
-http://flussonic3.cdniptv.com:9080/bein3hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports4.png",BEIN SPORTS 4 HD
-http://flussonic3.cdniptv.com:9080/bein4hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports5.png",BEIN SPORTS 5 HD
-http://flussonic3.cdniptv.com:9080/bein5hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png",BEIN SPORTS 6 HD
-http://flussonic3.cdniptv.com:9080/bein6hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports7.png",BEIN SPORTS 7 HD
-http://flussonic3.cdniptv.com:9080/bein7hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png",BEIN SPORTS 8 HD
-http://flussonic3.cdniptv.com:9080/bein8hd.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSQgKH4.png",AD Sport 1 HD
-http://flussonic3.cdniptv.com:9080/hls/mal-ad-sport1HD.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kiRDDPC.png",AD Sport 2 HD
-http://flussonic3.cdniptv.com:9080/hls/mal-ad-sport2HD.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 1
+http://okaystreamz.tk:35580/live/tvapp/tvapp/5854.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR:BEIN SPORTS 10
+http://okaystreamz.tk:35580/live/tvapp/tvapp/5855.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR:BEIN SPORTS 2
+http://okaystreamz.tk:35580/live/tvapp/tvapp/5856.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR:BEIN SPORTS 3
+http://okaystreamz.tk:35580/live/tvapp/tvapp/5857.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR:BEIN SPORTS 4
+http://okaystreamz.tk:35580/live/tvapp/tvapp/5858.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR:BEIN SPORTS 5
+http://okaystreamz.tk:35580/live/tvapp/tvapp/5859.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR:BEIN SPORTS 6
+http://okaystreamz.tk:35580/live/tvapp/tvapp/5860.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR:BEIN SPORTS 7
+http://okaystreamz.tk:35580/live/tvapp/tvapp/5861.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR:BEIN SPORTS 8
+http://okaystreamz.tk:35580/live/tvapp/tvapp/5862.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,AR:BEIN SPORTS 9
+http://okaystreamz.tk:35580/live/tvapp/tvapp/5863.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png" group-title="Bein Sports DTL",Bein 1HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3943.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 2HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3944.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 3HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3945.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 4HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3946.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 5HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4194.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 6HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4195.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 7HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4196.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 8HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4197.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 9HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4366.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 10HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4365.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 11HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4364.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein 12HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4363.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein Sports NewsHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2301.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 1HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1447.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 2HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1448.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 3HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1449.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 4HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1450.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 5HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1451.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 6HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1452.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",BeoutQ 7HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1453.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports 8SD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1454.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports 9SD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1455.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports 10SD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1456.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Canal+Sport-FR HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/79.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports-FR-1 HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/80.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports-FR-2 HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/81.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sports-FR-3 HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/82.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Abu Dhabi Sports 1HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2316.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Abu Dhabi Sports 2HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2315.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Abu Dhabi Sports 3HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4532.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Abu Dhabi Sports 4HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4533.ts
+#EXTINF:-1,CA: TSN 1 FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8179.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,CA: TSN 2 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8178.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,CA: TSN 3 FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8177.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,CA: TSN 4 FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8176.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,CA: TSN 5 FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8175.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Sfr Sport 1
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3072.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Sfr Sport 2
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3073.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Sfr Sport 3
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3074.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Infosport+
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1238.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Foot +24
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2521.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Canal+Sport
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1226.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",EuroSport 1HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2127.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",EuroSport 2HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2055.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 4
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3954.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 5
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3953.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 6
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3952.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 7
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3951.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 8
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3950.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 9
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3949.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",Bein_Sport Max 10
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3948.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8850.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8852.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8851.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,DE: SKY TNT FILM HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8881.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:Sky SportHD Serie A
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2996.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:Sky Sport unoHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1500.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:Sky Sport arenaHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1499.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:Sky Sport 24HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1498.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:Inter Channel
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4420.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",IT:MILAN CHANNEL
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1980.ts
+#EXTINF:-1,ES: Barca TV
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6219.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,ES: EUROSPORT 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6150.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,ES: EUROSPORT 2 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6149.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,ES: La Liga TV
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6125.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,ES: Moviestar DEPORTES 2 FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6106.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,ES: Moviestar Deportes
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6108.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,ES: Moviestar Futboll
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6097.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,ES: TELEDEPORTE HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6029.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,ES: beIN Sports HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6216.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:BEINSPORT HABER
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2654.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:beIN SPORT 1HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1716.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:Bein_Sports 2HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1390.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:Bein_Sports 3HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1715.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:TRT SporHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3902.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",TR:Sport  TV
-http://hbox.cdnss.me:80/live/belkhira/bdou1/1967.ts
+#EXTINF:-1,FR: CANAL  Sport FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/10546.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,FR: Canal Sport FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8818.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,FR: Eurosport 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8795.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,FR: Eurosport 2 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8794.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,FR: SFR SPORT 1 FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/10307.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,FR: SFR SPORT 2 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/10306.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,FR: SFR SPORT 3 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/10305.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,FR: beIN Sports HD 1
+http://okaystreamz.tk:35580/live/tvapp/tvapp/10585.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,FR: beIN Sports HD 2
+http://okaystreamz.tk:35580/live/tvapp/tvapp/10584.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,FR: beIN Sports HD 3
+http://okaystreamz.tk:35580/live/tvapp/tvapp/10583.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Benfica TV 1
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4635.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Real  Madrid
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4633.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:SPORT TV +
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4600.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Sport TV 1
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2975.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Sport TV 2
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2976.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:SPORT TV 3
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4572.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Sport TV 4
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2978.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:SPORT TV 5
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4601.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",PT:Sporting TV
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4578.ts
+#EXTINF:-1,IT: Fox Sport HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6547.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6438.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,IT: SUPER CALCIO HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6296.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6313.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6311.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/6309.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NL:Fox Sports 1
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3283.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NL:Fox Sports 2
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3287.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NL:Fox Sports 3
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3288.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NL:FOX SPORTS4
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3280.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",NL:FOX SPORTS 5
-http://hbox.cdnss.me:80/live/belkhira/bdou1/3279.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",(PL) Canal + SportHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2921.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ZIGGO SPORT VOETBALHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2034.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ZIGGO SPORT SELECTHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/2076.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:beIN SportsHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4959.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:BT SPORT 1HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4974.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:BT SPORT 2HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4975.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:CBS SportsHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4973.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:ESPN
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4977.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:ESPN FHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4964.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:FOX SPORTS 1 FHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4965.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",US:NBCSN FHD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4969.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ARENA SPORT 1SR
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4987.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ARENA SPORT 2SR
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4988.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ARENA SPORT 3SR
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4989.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",ARENA SPORT 4SR
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4990.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",SUPER SPORTS 1
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4999.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",SUPER SPORTS 2
-http://hbox.cdnss.me:80/live/belkhira/bdou1/5000.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",SUPER SPORTS 3
-http://hbox.cdnss.me:80/live/belkhira/bdou1/5001.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",DAZN 1HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/4991.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",DAZN 2HD
-http://hbox.cdnss.me:80/live/belkhira/bdou1/5002.ts
+#EXTINF:-1,PT: Eurosport 1
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8986.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,PT: Eurosport 2
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8985.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,PT: Sport TV
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8989.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,PT: Sport TV 1
+http://okaystreamz.tk:35580/live/tvapp/tvapp/9001.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,PT: Sport TV 2
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8999.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,PT: Sport TV 3
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8997.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,PT: SPORT TV 4
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8995.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,PT: Sport TV 5
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8993.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,PT: Sporting TV
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8990.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_us.jpg" group-title="Bein Sports",US:BeIN Sports HD
-http://universeiptv.com:8000/live/santino/1234/3333.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_us.jpg",BEIN SPORTS HD
-http://universeiptv.com:8000/live/santino/1234/5593.m3u8
-#EXTINF:-1 tvg-logo="http://manager.ndasat.pro/picons/be_in_sports_news.png",BEIN SPORTS News HD
-http://universeiptv.com:8000/live/santino/1234/2219.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_espanol.jpg",BeinSport ES HD
-http://universeiptv.com:8000/live/santino/1234/2584.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-la-liga-spain.png",BeinSport Laliga
-http://universeiptv.com:8000/live/santino/1234/2584.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",AR:Bein Sport 1 HDLow
-http://universeiptv.com:8000/live/santino/1234/16.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports2.png",AR:Bein Sport 2 HDLow
-http://universeiptv.com:8000/live/santino/1234/17.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",AR:Bein Sport 3 HDLow
-http://universeiptv.com:8000/live/santino/1234/18.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports4.png",AR:Bein Sport 4 HDLow
-http://universeiptv.com:8000/live/santino/1234/19.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports5.png",AR:Bein Sport 5 HDLow
-http://universeiptv.com:8000/live/santino/1234/20.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png",AR:Bein Sport 6 HDLow
-http://universeiptv.com:8000/live/santino/1234/21.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports7.png",AR:Bein Sport 7 HDLow
-http://universeiptv.com:8000/live/santino/1234/22.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png",AR:Bein Sport 8 HDLow
-http://universeiptv.com:8000/live/santino/1234/23.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports9.png",AR:Bein Sport 9 HDLow
-http://universeiptv.com:8000/live/santino/1234/24.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports10.png",AR:Bein Sport 10 HDLow
-http://universeiptv.com:8000/live/santino/1234/25.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_100X56.png",TR:BeinSport 1 HD
-http://universeiptv.com:8000/live/santino/1234/568.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png",TR:BeinSport 2 HD
-http://universeiptv.com:8000/live/santino/1234/840.m3u8
-#EXTINF:-1 tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_3_100X56.png",TR:BeinSport 3 HD
-http://universeiptv.com:8000/live/santino/1234/841.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0vGYvd9.png",FR:Beinsport 1 HD
-http://universeiptv.com:8000/live/santino/1234/980.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0UtbhZH.png",FR:Beinsport 2 HD
-http://universeiptv.com:8000/live/santino/1234/981.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QusZf2J.png",FR:Beinsport 3 HD
-http://universeiptv.com:8000/live/santino/1234/982.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/beinmax.png",FR:BeinSport Max
-http://universeiptv.com:8000/live/santino/1234/2203.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/beinmax.png",FR:BeinSport Max
-http://universeiptv.com:8000/live/santino/1234/2204.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/beinmax.png",FR:BeinSport Max
-http://universeiptv.com:8000/live/santino/1234/2205.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/beinmax.png",FR:BeinSport Max 
-http://universeiptv.com:8000/live/santino/1234/2206.m3u8
-#EXTINF:-1 tvg-logo="http://manager.ndasat.pro/picons/Bein%20Max4.png",FR:BeinSport Max 4 
-http://universeiptv.com:8000/live/santino/1234/983.m3u8
-#EXTINF:-1 tvg-logo="http://manager.ndasat.pro/picons/Bein%20Max5.png",FR:BeinSport Max 5 
-http://universeiptv.com:8000/live/santino/1234/984.m3u8
-#EXTINF:-1 tvg-logo="http://manager.ndasat.pro/picons/Bein%20Max6.png",FR:BeinSport Max 6
-http://universeiptv.com:8000/live/santino/1234/985.m3u8
-#EXTINF:-1 tvg-logo="http://manager.ndasat.pro/picons/Bein%20Max7.png",FR:BeinSport Max 7
-http://universeiptv.com:8000/live/santino/1234/986.m3u8
-#EXTINF:-1 tvg-logo="http://manager.ndasat.pro/picons/Bein%20Max8.png",FR:BeinSport Max 8
-http://universeiptv.com:8000/live/santino/1234/987.m3u8
-#EXTINF:-1 tvg-logo="http://manager.ndasat.pro/picons/Bein%20Max9.png",FR:BeinSport Max 9
-http://universeiptv.com:8000/live/santino/1234/7749.m3u8
-#EXTINF:-1 tvg-logo="http://manager.ndasat.pro/picons/Bein%20Max10.png",FR:BeinSport Max 10
-http://universeiptv.com:8000/live/santino/1234/7748.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",AR:Bein Sport 1 HD
-http://universeiptv.com:8000/live/santino/1234/858.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports2.png",AR:Bein Sport 2 HD
-http://universeiptv.com:8000/live/santino/1234/859.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",AR:Bein Sport 3 HD
-http://universeiptv.com:8000/live/santino/1234/860.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports4.png",AR:Bein Sport 4 HD
-http://universeiptv.com:8000/live/santino/1234/861.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports5.png",AR:Bein Sport 5 HD
-http://universeiptv.com:8000/live/santino/1234/862.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png",AR:Bein Sport 6 HD
-http://universeiptv.com:8000/live/santino/1234/863.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports7.png",AR:Bein Sport 7 HD
-http://universeiptv.com:8000/live/santino/1234/864.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png",AR:Bein Sport 8 HD
-http://universeiptv.com:8000/live/santino/1234/865.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports9.png",AR:Bein Sport 9 HD
-http://universeiptv.com:8000/live/santino/1234/866.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports10.png",AR:Bein Sport 10 HD
-http://universeiptv.com:8000/live/santino/1234/867.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports11.png",AR:Bein Sport 11 HD
-http://universeiptv.com:8000/live/santino/1234/3026.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports12.png",AR:Bein Sport 12 HD
-http://universeiptv.com:8000/live/santino/1234/3027.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports13.png",AR:Bein Sport 13 HD
-http://universeiptv.com:8000/live/santino/1234/13.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports14.png",AR:Bein Sport 14 HD
-http://universeiptv.com:8000/live/santino/1234/14.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports15.png",AR:Bein Sport 15 HD
-http://universeiptv.com:8000/live/santino/1234/15.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/beIN%2016HD.png",AR:Bein Sport 16 HD
-http://universeiptv.com:8000/live/santino/1234/19978.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-sports-arabia-17-hd.png",AR:Bein Sport 17 HD
-http://universeiptv.com:8000/live/santino/1234/19979.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",AR:Bein Sport 1
-http://universeiptv.com:8000/live/santino/1234/165.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports2.png",AR:Bein Sport 2
-http://universeiptv.com:8000/live/santino/1234/167.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",AR:Bein Sport 3
-http://universeiptv.com:8000/live/santino/1234/168.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports4.png",AR:Bein Sport 4
-http://universeiptv.com:8000/live/santino/1234/169.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports5.png",AR:Bein Sport 5
-http://universeiptv.com:8000/live/santino/1234/170.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png",AR:Bein Sport 6
-http://universeiptv.com:8000/live/santino/1234/171.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports7.png",AR:Bein Sport 7
-http://universeiptv.com:8000/live/santino/1234/172.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png",AR:Bein Sport 8
-http://universeiptv.com:8000/live/santino/1234/173.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports9.png",AR:Bein Sport 9
-http://universeiptv.com:8000/live/santino/1234/174.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports10.png",AR:Bein Sport 10
-http://universeiptv.com:8000/live/santino/1234/166.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports1.png",AR:Bein Sport 1 HD
-http://universeiptv.com:8000/live/santino/1234/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports2.png",AR:Bein Sport 2 HD
-http://universeiptv.com:8000/live/santino/1234/2.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports3.png",AR:Bein Sport 3 HD
-http://universeiptv.com:8000/live/santino/1234/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports4.png",AR:Bein Sport 4 HD
-http://universeiptv.com:8000/live/santino/1234/4.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports5.png",AR:Bein Sport 5 HD
-http://universeiptv.com:8000/live/santino/1234/5.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports6.png",AR:Bein Sport 6 HD
-http://universeiptv.com:8000/live/santino/1234/6.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports7.png",AR:Bein Sport 7 HD
-http://universeiptv.com:8000/live/santino/1234/7.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports8.png",AR:Bein Sport 8 HD
-http://universeiptv.com:8000/live/santino/1234/8.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports9.png",AR:Bein Sport 9 HD
-http://universeiptv.com:8000/live/santino/1234/9.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports10.png",AR:Bein Sport 10 HD
-http://universeiptv.com:8000/live/santino/1234/10.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports11.png",AR:Bein Sport 11 HD
-http://universeiptv.com:8000/live/santino/1234/11.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/beinsports12.png",AR:Bein Sport 12 HD
-http://universeiptv.com:8000/live/santino/1234/12.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_sports_news_hd.jpg" group-title="World Sports",UK:SkySports News
-http://universeiptv.com:8000/live/santino/1234/2038.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png",UK:Sky BT Sport 1
-http://universeiptv.com:8000/live/santino/1234/628.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png",UK:Sky BT Sport 2
-http://universeiptv.com:8000/live/santino/1234/627.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/btsport3.png",UK:Sky BT Sport 3
-http://universeiptv.com:8000/live/santino/1234/2588.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_1_hd.jpg",UK:BT Sport 1 HD
-http://universeiptv.com:8000/live/santino/1234/2720.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bt_sport_2_hd.jpg",UK:BT Sport 2 HD
-http://universeiptv.com:8000/live/santino/1234/2721.m3u8
-#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/btsport3.png",UK:BT Sport 3 HD
-http://universeiptv.com:8000/live/santino/1234/2721.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_uk.jpg",UK:BT Sport ESPN
-http://universeiptv.com:8000/live/santino/1234/2583.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/espn_uk.jpg",UK:BT Sport ESPN FHD
-http://universeiptv.com:8000/live/santino/1234/2723.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport_hd.jpg",UK:Eurosport 1 HD
-http://universeiptv.com:8000/live/santino/1234/4475.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport2_hd.jpg",UK:Eurosport 2 HD
-http://universeiptv.com:8000/live/santino/1234/4474.m3u8
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-PREMIER.png",UK:SkySports Premier League HD
-http://universeiptv.com:8000/live/santino/1234/630.m3u8
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-PREMIER.png",UK:SkySports Premier League FHD
-http://universeiptv.com:8000/live/santino/1234/2718.m3u8
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-MAIN-EVENT.png",UK:SkySports Main Event HD
-http://universeiptv.com:8000/live/santino/1234/634.m3u8
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-MAIN-EVENT.png",UK:SkySports Main Event FHD
-http://universeiptv.com:8000/live/santino/1234/2714.m3u8
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-ARENA.png",UK:SkySport Arena
-http://universeiptv.com:8000/live/santino/1234/4973.m3u8
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-FOOTBALL.png",UK:SkySport Football
-http://universeiptv.com:8000/live/santino/1234/4974.m3u8
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-MIX.png",UK:SkySports Mix HD
-http://universeiptv.com:8000/live/santino/1234/4966.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/220px-Setanta-logo.jpg",UK:SkySetanta Sports
-http://universeiptv.com:8000/live/santino/1234/611.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png",UK:Liverpool FC TV HD
-http://universeiptv.com:8000/live/santino/1234/2093.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/ChelseaTVLogo.png/150px-ChelseaTVLogo.png",UK:Chelsea TV HD
-http://universeiptv.com:8000/live/santino/1234/2106.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/200px-MUTV_logo.png",UK:MUTV
-http://universeiptv.com:8000/live/santino/1234/2092.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/ElevenSports_1.png",UK:Eleven Sports 1
-http://universeiptv.com:8000/live/santino/1234/20318.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png",UK:Eleven Sports 2
-http://universeiptv.com:8000/live/santino/1234/20319.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/FOX+SPORTS+1.png",US:FS1
-http://universeiptv.com:8000/live/santino/1234/2118.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/FOX+SPORTS+2.png",US:FS2
-http://universeiptv.com:8000/live/santino/1234/2119.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/ESPN+2+HD.png",US:ESPN 2
-http://universeiptv.com:8000/live/santino/1234/2464.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/NBATVHD.png",US:NBA TV
-http://universeiptv.com:8000/live/santino/1234/2120.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/NBC%20Sports%20Network.png",US:NBCSN
-http://universeiptv.com:8000/live/santino/1234/2121.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/NBCSNHD.png",US:NBC Sport
-http://universeiptv.com:8000/live/santino/1234/7559.m3u8
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.353478.1441033714!/fileimage/httpImage/image.png_gen/derivatives/default/tsn1.png",US:TSN 1
-http://universeiptv.com:8000/live/santino/1234/2122.m3u8
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.353480.1441033792!/fileimage/httpImage/image.png_gen/derivatives/default/tsn2.png",US:TSN 2
-http://universeiptv.com:8000/live/santino/1234/2123.m3u8
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.353481.1441033831!/fileimage/httpImage/image.png_gen/derivatives/default/tsn3.png",US:TSN 3
-http://universeiptv.com:8000/live/santino/1234/2124.m3u8
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.353487.1441033924!/fileimage/httpImage/image.png_gen/derivatives/default/tsn4.png",US:TSN 4
-http://universeiptv.com:8000/live/santino/1234/2125.m3u8
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.353478.1441033714!/fileimage/httpImage/image.png_gen/derivatives/default/tsn1.png",CA:TSN 1
-http://universeiptv.com:8000/live/santino/1234/4791.m3u8
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.353480.1441033792!/fileimage/httpImage/image.png_gen/derivatives/default/tsn2.png",CA:TSN 2
-http://universeiptv.com:8000/live/santino/1234/4792.m3u8
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.353481.1441033831!/fileimage/httpImage/image.png_gen/derivatives/default/tsn3.png",CA:TSN 3
-http://universeiptv.com:8000/live/santino/1234/4793.m3u8
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.353487.1441033924!/fileimage/httpImage/image.png_gen/derivatives/default/tsn4.png",CA:TSN 4
-http://universeiptv.com:8000/live/santino/1234/4794.m3u8
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.353484.1441033905!/fileimage/httpImage/image.png_gen/derivatives/default/tsn5.png",CA:TSN 5
-http://universeiptv.com:8000/live/santino/1234/4795.m3u8
-#EXTINF:-1 tvg-logo="http://www.performgroup.com/wp-content/uploads/2018/05/dazn-footer-2-300x300.png",DE:DAZN 1
-http://universeiptv.com:8000/live/santino/1234/20016.m3u8
-#EXTINF:-1 tvg-logo="http://www.performgroup.com/wp-content/uploads/2018/05/dazn-footer-2-300x300.png",DE:DAZN 2
-http://universeiptv.com:8000/live/santino/1234/20017.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/Sport+Klub+1+HD.png",EX-YU:Sport_Klub1
-http://universeiptv.com:8000/live/santino/1234/1444.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/Sport+Klub+2+HD.png",EX-YU:Sport_Klub2
-http://universeiptv.com:8000/live/santino/1234/1445.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/Sport+Klub+3+HD.png",EX-YU:Sport_Klub3
-http://universeiptv.com:8000/live/santino/1234/1446.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/Sport+Klub+4+HD.png",EX-YU:Sport_Klub4
-http://universeiptv.com:8000/live/santino/1234/5418.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/Sport+Klub+5+HD.png",EX-YU:Sport_Klub5
-http://universeiptv.com:8000/live/santino/1234/5417.m3u8
-#EXTINF:-1 tvg-logo="http://www.kooora.com/images/logo_sport/sport_klub6.jpg",EX-YU:Sport_Klub6
-http://universeiptv.com:8000/live/santino/1234/5416.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/SPORTING%20TV.png",PT:SPORTING_TV
-http://universeiptv.com:8000/live/santino/1234/1544.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/SPORT%20TV%201.png",PT:SPORT TV 1HD
-http://universeiptv.com:8000/live/santino/1234/1545.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/SPORT%20TV%202.png",PT:SPORT TV 2HD
-http://universeiptv.com:8000/live/santino/1234/1546.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/SPORT%20TV%203.png",PT:SPORT TV 3HD
-http://universeiptv.com:8000/live/santino/1234/1547.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/SPORT%20TV%204.png",PT:SPORT TV 4HD
-http://universeiptv.com:8000/live/santino/1234/1548.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/SPORT%20TV%205.png",PT:SPORT TV 5HD
-http://universeiptv.com:8000/live/santino/1234/3671.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/Eurosport%201.png",FR:EUROSPORT
-http://universeiptv.com:8000/live/santino/1234/2531.m3u8
-#EXTINF:-1 tvg-logo="http://teamnutz.info/guide/logos/Eurosport%202.png",FR:EUROSPORT_2
-http://universeiptv.com:8000/live/santino/1234/3470.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png",ES:Barca TV
-http://universeiptv.com:8000/live/santino/1234/1025.m3u8
+#EXTINF:-1,SPORT: BT Sport 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8461.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: BT Sport 2 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8460.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: BT Sport ESPN FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8458.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: Sky Premiere Sports
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8341.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: Sky Sports Football FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8411.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: Sky Sports Main Event FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8409.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: Sky Sports Premier League FHD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8406.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png" group-title="Beinout Sports",MY:Bein Sport 1HD
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11922.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 2HD
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11921.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 3HD
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11920.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 4HD
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11919.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 5HD
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11918.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 6HD
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11917.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 7HD
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11916.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 8HD
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11915.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 9HD
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11914.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:Bein Sport 10HD
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/11913.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 1
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/12112.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 2
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/12111.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 3
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/12110.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 4
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/12109.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 5
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/12108.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 6
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/12107.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 7
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/12106.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 8
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/12105.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 9
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/12104.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIm5mu8.png",MY:BeoutQ 10
-http://sonic-eg.com:8000/live/card_ac72UE/HTq9tZRK/12103.m3u8
+#EXTINF:-1,SPORT: beout Q 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8385.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: beout Q 2 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8384.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: beout Q 3 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8383.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: beout Q 4 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8382.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: beout Q 5 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8381.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: beout Q 6 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8380.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,SPORT: beout Q 7 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8379.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="China Sports", Super Sports 1 HD 
-http://39.134.52.162/wh7f454c46tw3498689980_663871177/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg",Super Sports 2 HD 
-http://39.134.52.185/wh7f454c46tw3537423667_-945976133/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226020/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg",Super Sports 3 HD 
-http://39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg",Super Sports 4 HD 
-http://39.134.52.183/wh7f454c46tw3605758820_-2143308693/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226024/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg",Super Sports 5 HD 
-http://39.134.52.172/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226027/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg",Super Sports 6 HD 
-http://39.134.52.183/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg",Super Sports 7 HD 
-http://39.134.52.181/wh7f454c46tw3821303500_-921252786/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226040/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg",Super Sports 8 HD 
-http://39.134.52.155/wh7f454c46tw3865793157_-581653894/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226042/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg",BesTV HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225802/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg",BesTV HD
-http://111.48.34.186/wh7f454c46tw846896432_1037257338/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225802/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png/200px-CCTV-5%E4%BD%93%E8%82%B2.png",CCTV5 HD
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png/200px-CCTV-5%E4%BD%93%E8%82%B2.png",CCTV5 HD
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png/200px-CCTV-5%E4%BD%93%E8%82%B2.png",CCTV5 HD
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227298/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png/200px-CCTV-5%E4%BD%93%E8%82%B2.png",CCTV5 HD
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png/200px-CCTV-5%E4%BD%93%E8%82%B2.png",CCTV5 HD
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227468/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png/200px-CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png",CCTV5+ HD
-http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221225604/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png/200px-CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png",CCTV5+ HD
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227381/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png/200px-CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png",CCTV5+ HD
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227465/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png/200px-CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png",CCTV5+ HD
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227480/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png/200px-CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png",CCTV5+ HD
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/11291.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/11290.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/11289.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,TR: BEIN SPORTS 4 EXTRA
+http://okaystreamz.tk:35580/live/tvapp/tvapp/11288.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/180px-Sony_ESPN.svg.png" group-title="Sony Sports", SONY ESPN HD
-http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/ten1hd" group-title="Sony Sports", SONY TEN1 FHD
-http://cshms4.airtel.tv/wh7f454c46tw1071703244_1357289440/PLTV/88888888/224/3221225875/05.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/ten2hd" group-title="Sony Sports", SONY TEN2 FHD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/ten2hd", Sony Ten 2 HD
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/ten3hd", SONY TEN3 HD
-http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/ten3hd", SONY TEN3 HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/sixhd", SONY SIX FHD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/DDSportsLogo.png", DD Sports
-http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/200px-DSport_logo.png", DSports HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/sonymax" group-title="Sony Sports", SONY MAX FHD
-http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/05.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/sonysab" group-title="Sony Sports", SONY SAB FHD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/05.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/sonyjeet" group-title="Sony Sports", SONY JEET HD
-http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/04.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/sonyplex" group-title="Sony Sports", SONY LE PLEX HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/sonypix" group-title="Sony Sports", SONY PIX HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/sonyrox" group-title="Sony Sports", SONY ROX MUSIC HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/04.m3u8
-#EXTINF:-1 tvg-logo="https://gg.gg/sony-tv" group-title="Sony Sports", SONY TV HD
-http://cshms2.airtel.tv/wh7f454c46tw2308406466_821284247/PLTV/88888888/224/3221225772/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALLSPORTS.png" group-title="Latino Sports", All Sports 
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205", REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205", Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205", Real Madrid TV (Opt-1)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205", Real Madrid TV (Opt-2)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205", Real Madrid TV (English)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 1 (VLC)
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 2 (VLC)
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-
-#EXTINF: -1 tvg-logo="https://gg.gg/vpop-tv" group-title="Entertainment", Vpop TV
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vpoptv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://gg.gg/hai-24-7" group-title="Entertainment", HAI 24/7
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/hai/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://gg.gg/rangdong" group-title="Entertainment", RANG DONG
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/rangdong/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Entertainment",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DT3DICU.png" group-title="Entertainment", California Music Channel 720
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1 tvg-logo="https://png.icons8.com/color/1600/porn-folder.png" group-title="Entertainment", Adu 1
-http://172.104.114.178/vod/live/1/live.m3u8?key=71b7gqtnc2mtqld1vu4pf0kg43
-#EXTINF:-1 tvg-logo="https://png.icons8.com/color/1600/porn-folder.png" group-title="Entertainment", Adu 2
-http://172.104.114.178/vod/live/2/live.m3u8?key=71b7gqtnc2mtqld1vu4pf0kg43
-#EXTINF:-1 tvg-logo="https://png.icons8.com/color/1600/porn-folder.png" group-title="Entertainment", Adu 3
-http://172.104.114.178/vod/live/3/live.m3u8?key=71b7gqtnc2mtqld1vu4pf0kg43
-#EXTINF:-1 tvg-logo="https://png.icons8.com/color/1600/porn-folder.png" group-title="Entertainment", Adu 4
-http://172.104.114.178/vod/live/4/live.m3u8?key=71b7gqtnc2mtqld1vu4pf0kg43
+#EXTINF:-1,US: BEIN SPORTS US HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8744.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,US: ESPN 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8693.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,US: FOX Sports 1 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8681.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,US: FOX Sports 2 HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8680.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,US: NBC SPORTS HD
+http://okaystreamz.tk:35580/live/tvapp/tvapp/8644.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,US: NBC Sports HD (Premier League)
+http://okaystreamz.tk:35580/live/tvapp/tvapp/11042.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,US: NBA TV
+http://okaystreamz.tk:35580/live/tvapp/tvapp/14894.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
