@@ -1,204 +1,120 @@
-#EXTM3U NLSPORT1
+#EXTM3U
 
-#EXTINF:-1,AL: SuperSport 1
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9155.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AL: SuperSport 2
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9154.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AL: SuperSport 3
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9153.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AL: SuperSport 4
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9152.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AL: SuperSport 5
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9151.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1,AR: BEIN SPORT 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9076.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR: BEIN SPORT 2 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9075.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR: BEIN SPORT 3 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9074.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR: BEIN SPORT 4 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9073.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR: BEIN SPORT 5 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9072.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR: BEIN SPORT 6 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9071.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR: BEIN SPORT 7 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9070.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR: BEIN SPORT 8 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9069.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR: BEIN SPORT 9 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9068.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR: BEIN SPORT 10 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9067.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR: BEIN SPORT 11 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9066.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR: BEIN SPORT 12 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9065.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTSHD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/13.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS NewsHD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/14.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 1HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/1.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 2HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/2.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 3HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/3.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 4HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/4.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 5HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/5.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 6HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/6.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 7HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/7.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 8HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/8.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 9HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/9.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 10HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/10.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 11HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/11.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeinSPORTS 12HD [AR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/12.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,beINSPORTS 1HD [Fr]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/50.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,beINSPORTS 2HD [Fr]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/51.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,beINSPORTS 3HD [Fr]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/52.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FR beINMAX 04HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/53.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FR beINMAX 05HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/54.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FR beINMAX 06HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/55.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FR beINMAX 07HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/56.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FR beINMAX 08HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/57.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FR beINMAX 09HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/58.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,FR beINMAX 10HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/59.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,beINSPORTS 1 [TR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/26.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,beINSPORTS 2 [TR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/27.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,beINSPORTS 3 [TR]
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/28.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,AD Sports 1HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/20.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,AD Sports 2HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/21.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,AD Sports 3HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/22.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,AD Sports 4HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/23.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,AD Sports 5HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/24.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
-#EXTINF:-1,AR:BEIN SPORTS 1
-http://okaystreamz.tk:35580/live/tvapp/tvapp/5854.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR:BEIN SPORTS 10
-http://okaystreamz.tk:35580/live/tvapp/tvapp/5855.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR:BEIN SPORTS 2
-http://okaystreamz.tk:35580/live/tvapp/tvapp/5856.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR:BEIN SPORTS 3
-http://okaystreamz.tk:35580/live/tvapp/tvapp/5857.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR:BEIN SPORTS 4
-http://okaystreamz.tk:35580/live/tvapp/tvapp/5858.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR:BEIN SPORTS 5
-http://okaystreamz.tk:35580/live/tvapp/tvapp/5859.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR:BEIN SPORTS 6
-http://okaystreamz.tk:35580/live/tvapp/tvapp/5860.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR:BEIN SPORTS 7
-http://okaystreamz.tk:35580/live/tvapp/tvapp/5861.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR:BEIN SPORTS 8
-http://okaystreamz.tk:35580/live/tvapp/tvapp/5862.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,AR:BEIN SPORTS 9
-http://okaystreamz.tk:35580/live/tvapp/tvapp/5863.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-
-#EXTINF:-1,CA: TSN 1 FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8179.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,CA: TSN 2 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8178.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,CA: TSN 3 FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8177.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,CA: TSN 4 FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8176.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,CA: TSN 5 FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8175.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8850.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8852.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8851.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,DE: SKY TNT FILM HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8881.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-
-#EXTINF:-1,ES: Barca TV
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6219.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,ES: EUROSPORT 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6150.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,ES: EUROSPORT 2 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6149.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,ES: La Liga TV
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6125.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,ES: Moviestar DEPORTES 2 FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6106.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,ES: Moviestar Deportes
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6108.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,ES: Moviestar Futboll
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6097.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,ES: TELEDEPORTE HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6029.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,ES: beIN Sports HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6216.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-
-#EXTINF:-1,FR: CANAL  Sport FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/10546.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,FR: Canal Sport FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8818.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,FR: Eurosport 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8795.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,FR: Eurosport 2 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8794.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,FR: SFR SPORT 1 FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/10307.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,FR: SFR SPORT 2 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/10306.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,FR: SFR SPORT 3 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/10305.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,FR: beIN Sports HD 1
-http://okaystreamz.tk:35580/live/tvapp/tvapp/10585.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,FR: beIN Sports HD 2
-http://okaystreamz.tk:35580/live/tvapp/tvapp/10584.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,FR: beIN Sports HD 3
-http://okaystreamz.tk:35580/live/tvapp/tvapp/10583.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-
-#EXTINF:-1,IT: Fox Sport HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6547.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,IT: Premium Sport 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6438.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,IT: SUPER CALCIO HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6296.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6313.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6311.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/6309.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-
-#EXTINF:-1,PT: Eurosport 1
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8986.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,PT: Eurosport 2
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8985.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,PT: Sport TV
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8989.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,PT: Sport TV 1
-http://okaystreamz.tk:35580/live/tvapp/tvapp/9001.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,PT: Sport TV 2
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8999.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,PT: Sport TV 3
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8997.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,PT: SPORT TV 4
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8995.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,PT: Sport TV 5
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8993.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,PT: Sporting TV
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8990.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-
-#EXTINF:-1,SPORT: BT Sport 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8461.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: BT Sport 2 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8460.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: BT Sport ESPN FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8458.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: Sky Premiere Sports
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8341.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: Sky Sports Football FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8411.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: Sky Sports Main Event FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8409.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: Sky Sports Premier League FHD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8406.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-
-#EXTINF:-1,SPORT: beout Q 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8385.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: beout Q 2 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8384.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: beout Q 3 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8383.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: beout Q 4 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8382.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: beout Q 5 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8381.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: beout Q 6 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8380.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,SPORT: beout Q 7 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8379.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-
-#EXTINF:-1,TR: BEIN SPORTS 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/11291.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,TR: BEIN SPORTS 2 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/11290.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,TR: BEIN SPORTS 3 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/11289.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,TR: BEIN SPORTS 4 EXTRA
-http://okaystreamz.tk:35580/live/tvapp/tvapp/11288.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-
-#EXTINF:-1,US: BEIN SPORTS US HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8744.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,US: ESPN 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8693.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,US: FOX Sports 1 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8681.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,US: FOX Sports 2 HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8680.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,US: NBC SPORTS HD
-http://okaystreamz.tk:35580/live/tvapp/tvapp/8644.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,US: NBC Sports HD (Premier League)
-http://okaystreamz.tk:35580/live/tvapp/tvapp/11042.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1,US: NBA TV
-http://okaystreamz.tk:35580/live/tvapp/tvapp/14894.ts|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
+#EXTINF:-1,[FR] RMC SPORT 1HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/60.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[FR] RMC SPORT 2HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/61.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[FR] RMC SPORT 3HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/62.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[FR] INFOSPORTHD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/113.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[FR] CANAL SPORTHD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/111.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] SkySports 1HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/38.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] SkySports 2HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/39.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] SkySports 3HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/40.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] SkySports 4HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/41.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] SkySports 5HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/42.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] BT Sport ExtraHD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/49.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] BT Sport EuropeHD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/48.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] BT Sport Europe_2HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/47.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] BT Sport 1HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/45.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] BT Sport 2HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/46.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] BT Sports 1HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/43.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[UK] BT Sports 2HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/44.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[PT] SPORTTV 1HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/29.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[PT] SPORTTV 2HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/30.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[PT] SPORTTV 3HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/31.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[PT] SPORTTV 4HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/32.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[PT] SPORTTV 5HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/33.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[RO] DIGI Sport 1HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/34.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[RO] DIGI Sport 2HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/35.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[RO] DIGI Sport 3HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/36.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,[RO] DIGI Sport 4HD
+http://2.primatv.club:8080/live/FREE100hskdkj/vKca100Ukjsnc/37.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
